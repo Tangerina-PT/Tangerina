@@ -1,6 +1,9 @@
 # tangerina
 
-Listen to ![listen](/images/listen.PNG) and sing the songs:
+![listen](/images/listen.PNG)
+
+Listen to and sing the songs:
+
 ![PT](/images/flag.jpg "Ouvir e cantar as canções:")
 
 1. [Hello hello, what’s your name?] (https://www.youtube.com/watch?v=Uv1JkBL5728) 
