@@ -2,7 +2,7 @@
 
 ![my first image](/images/listen.png)
 
-text text <img style="vertical-align:middle" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg"> text text
+text text <img style="vertical-align:middle" width="50" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg"> text text
 
 Listen to ![my first image](/images/listen.png) and sing the songs: ![PT](https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg "Ouvir e cantar as canções:")
 
