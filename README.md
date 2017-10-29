@@ -8,7 +8,7 @@ Listen to ![my first image](/images/listen.png) and sing the songs: ![](https://
 
 ![](english-homework.github.io/tangerina/images/flag.png?height=50px)
 
-![PT](<img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg" width="50" /> "Ouvir e cantar as canções:")
+![PT](<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Portugal_flag_300.png" width="50" /> "Ouvir e cantar as canções:")
 
 
 1. [Hello hello, what’s your name?](https://www.youtube.com/watch?v=Uv1JkBL5728) 
