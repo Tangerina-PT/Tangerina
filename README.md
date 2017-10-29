@@ -2,6 +2,22 @@
 
 ![my first image](/images/listen.png)
 
+<div id="container">
+    <img />
+    This is an image
+</div>
+
+Hi !
+
+#container {
+    height:100px;
+    line-height:100px;
+}
+
+#container img {
+    vertical-align:middle;
+    max-height:100%;
+}
 Listen to and sing the songs:![PT](/images/flag.JPG "Ouvir e cantar as canções:")
 
 1. [Hello hello, what’s your name?](https://www.youtube.com/watch?v=Uv1JkBL5728) 
