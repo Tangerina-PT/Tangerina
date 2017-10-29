@@ -1,8 +1,8 @@
 # Year 2 English
 
-### (2). Colours
+### (3). Colours
 
-To learn how to name the colours in English, play some of the following games/Para apreender a nomear as cores em inglês, jogar alguns dos seguintes jogos: 
+Play some games to learn the colours/Jogar alguns jogos para apreender as cores: 
 1. [Match the colours to their names 1](https://learnenglishkids.britishcouncil.org/en/word-games/colours) 
 For each colour, students can click on the picture of the speaker next to the word to hear the correct pronunciation. To place the colour, click first on the word, then on the box below the correct coloured puddle./Para cada cor, alunos podem ‘clicar’ na imagem de auscultador a beira da palavra para ouvir a pronúnica correcta. Para associar as palavras às cores, primeiro faz-se um ‘clique’ na palavra, fazendo outro ‘clique’ logo a seguir na caixa cinzenta por baixo da mancha de cor correspondente.
 
@@ -40,7 +40,7 @@ NB: You need Adobe Flash Player to play ‘Alphabet Antics’
 
 Listen to ![listen](/images/listen.png) and sing ![sing](/images/sing.png) the songs:
 
-1. [Hello hello, what’s your name?](https://www.youtube.com/watch?v=Uv1JkBL5728) 
+1. [Hello hello, what’s your name?](https://www.youtube.com/watch?v=Uv1JkBL5728) ![wyn](/images/wyn1.png)
 
 2. [How old are you?](https://www.youtube.com/watch?v=x2cI4ZgsYU4)
 
