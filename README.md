@@ -22,9 +22,9 @@ Play twice to use all the colours. / Jogar pelo menos duas vezes para cobrir tod
 
 Learn to spell aloud in English. 
 
-1. Sing ![sing](/images/sing.png) the [alphabet song](https://www.youtube.com/watch?v=Y88p4V_BCEU)
+1. Sing ![sing](/images/sing.png) the [alphabet song](https://www.youtube.com/watch?v=Y88p4V_BCEU) ![alph](/images/alph.png)
 
-2. Play the [Alphabet Antics game](http://learnenglishkids.britishcouncil.org/en/games/alphabet-antics)
+2. Play the [Alphabet Antics game](http://learnenglishkids.britishcouncil.org/en/games/alphabet-antics) ![aant](/images/aant.PNG)
 * click on each letter to hear its name
 * start with the **easy** level, then challenge yourself with the medium and hard levels
 
