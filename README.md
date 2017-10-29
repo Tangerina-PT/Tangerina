@@ -1,9 +1,26 @@
 # Year 2 English
 
+### (2). Colours
 
-### 2    The Alphabet
+To learn how to name the colours in English, play some of the following games/Para apreender a nomear as cores em inglês, jogar alguns dos seguintes jogos: 
+1. [Match the colours to their names 1](https://learnenglishkids.britishcouncil.org/en/word-games/colours) 
+For each colour, students can click on the picture of the speaker next to the word to hear the correct pronunciation. To place the colour, click first on the word, then on the box below the correct coloured puddle./Para cada cor, alunos podem ‘clicar’ na imagem de auscultador a beira da palavra para ouvir a pronúnica correcta. Para associar as palavras às cores, primeiro faz-se um ‘clique’ na palavra, fazendo outro ‘clique’ logo a seguir na caixa cinzenta por baixo da mancha de cor correspondente.
 
-In Year 2 English we are currently learning the letter names (the alphabet) in order to learn to spell aloud in English. This week’s homework is as follows:
+2. [Match the colours to their names 2](https://englishflashgames.blogspot.pt/2008/05/colours-game.html)
+Play the **beginner** level
+
+3. Play [colour memory](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/)  
+Play twice to use all the colours. / Jogar pelo menos duas vezes para cobrir todas as cores.
+
+4. Play some [spelling games](http://www.mes-games.com/colors.php) - click on the **‘Spelling’** section and play 
+* ‘Missile defence’: Choose the correct spelling then click on the red button to destroy the missiles./Escolher a ortografia certa para a cor mostrada no canto inferior direito. 
+* ‘Collect the stars’: Click on the letters to spell each colour then click on ‘Check’./Clicar nas letras do teclado no ecrã para soletrar a cor e clicar no ‘check’.
+
+***
+
+### (2). The Alphabet
+
+Learn to spell aloud in English. 
 
 1. Sing ![sing](/images/sing.png) the [alphabet song](https://www.youtube.com/watch?v=Y88p4V_BCEU)
 
@@ -11,14 +28,15 @@ In Year 2 English we are currently learning the letter names (the alphabet) in o
 * click on each letter to hear its name
 * start with the **easy** level, then challenge yourself with the medium and hard levels
 
-3. Practice spelling your name aloud in English – use Alphabet Antics and click on the letters of your name to help.
+3. Practise spelling your name aloud in English – use Alphabet Antics and click on the letters of your name to help.
 
 4. Extra challenge if you have time: Can you spell the names of other members of your family?
 
 NB: You need Adobe Flash Player to play ‘Alphabet Antics’
 
+***
 
-### 1    Initial songs
+### (1). Initial songs
 
 Listen to ![listen](/images/listen.png) and sing ![sing](/images/sing.png) the songs:
 
