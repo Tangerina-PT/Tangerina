@@ -2,7 +2,7 @@
 
 ![my first image](/images/listen.png)
 
-Listen to ![my first image](/images/listen.png) and sing the songs: ![PT]("Ouvir e cantar as canções:")
+Listen to ![listen](/images/listen.png) and sing ![sing](/images/sing.png) the songs: ![PT]("Ouvir e cantar as canções:")
 
 ![](https://upload.wikimedia.org/wikipedia/commons/2/2d/Portugal_flag_300.png?width=10% "Ouvir e cantar as canções:")
 
