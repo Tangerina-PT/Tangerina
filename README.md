@@ -1,24 +1,24 @@
 # Year 2 English
 
 
-### 2 The Alphabet
+### 2    The Alphabet
 
 In Year 2 English we are currently learning the letter names (the alphabet) in order to learn to spell aloud in English. This week’s homework is as follows:
 
 1. Sing ![sing](/images/sing.png) the [alphabet song](https://www.youtube.com/watch?v=Y88p4V_BCEU)
 
 2. Play the [Alphabet Antics game](http://learnenglishkids.britishcouncil.org/en/games/alphabet-antics)
-- before you play, click on each letter on the opening screen to remind yourself of the name for each letter
-- start with the easy level that shows you the letter that you are hearing, then challenge yourself with the medium and hard levels:
+* click on each letter to hear its name
+* start with the **easy** level, then challenge yourself with the medium and hard levels
 
-3. Practice spelling your name aloud in English – use the opening screen of the Alphabet Antics game and click on the letters of your name in order to hear how to say each letter.
+3. Practice spelling your name aloud in English – use Alphabet Antics and click on the letters of your name to help.
 
 4. Extra challenge if you have time: Can you spell the names of other members of your family?
 
 NB: You need Adobe Flash Player to play ‘Alphabet Antics’
 
 
-### 1 Initial songs
+### 1    Initial songs
 
 Listen to ![listen](/images/listen.png) and sing ![sing](/images/sing.png) the songs:
 
