@@ -6,6 +6,9 @@ text text <img style="vertical-align:middle" width="50" src="https://upload.wiki
 
 Listen to ![my first image](/images/listen.png) and sing the songs: ![PT](https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg =50x33 "Ouvir e cantar as canções:")
 
+![PT](<img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg" width="50" /> "Ouvir e cantar as canções:")
+
+
 1. [Hello hello, what’s your name?](https://www.youtube.com/watch?v=Uv1JkBL5728) 
 
 2. [How old are you?](https://www.youtube.com/watch?v=x2cI4ZgsYU4)
