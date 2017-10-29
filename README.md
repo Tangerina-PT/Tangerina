@@ -2,9 +2,7 @@
 
 ![my first image](/images/listen.png)
 
-text text <img style="vertical-align:top" src="https://github.com/english-homework/tangerina/blob/master/images/flag.JPG"> text text
-
-text text <img {vertical-align:top;} src="https://github.com/english-homework/tangerina/blob/master/images/flag.JPG"> text text
+text text <img style="vlign:middle" src="https://github.com/english-homework/tangerina/blob/master/images/flag.JPG"> text text
 
 Listen to and sing the songs:![PT](/images/flag.JPG "Ouvir e cantar as canções:")
 
