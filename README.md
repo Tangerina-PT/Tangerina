@@ -1,6 +1,6 @@
 # tangerina
 
-![listen](/images/listen.PNG)
+![my first image](/images/listen.PNG)
 
 Listen to and sing the songs:
 
@@ -31,4 +31,4 @@ http://www.publico.pt
 
 [Publico](http://www.publico.pt)
 
-![my first image](/images/monty.PNG)
+![my second image](/images/monty.PNG)
