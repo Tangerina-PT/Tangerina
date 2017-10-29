@@ -2,9 +2,9 @@
 
 ![my first image](/images/listen.png)
 
-text text <img style="vertical-align:middle" src="https://github.com/english-homework/tangerina/blob/master/images/flag.png"> text text
+text text <img style="vertical-align:middle" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg"> text text
 
-Listen to ![my first image](/images/listen.png) and sing the songs: ![PT]("Ouvir e cantar as canções:")
+Listen to ![my first image](/images/listen.png) and sing the songs: ![PT](https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg "Ouvir e cantar as canções:")
 
 1. [Hello hello, what’s your name?](https://www.youtube.com/watch?v=Uv1JkBL5728) 
 
