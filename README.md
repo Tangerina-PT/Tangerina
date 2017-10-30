@@ -13,8 +13,7 @@ Play some games to learn the colours/Jogar alguns jogos para apreender as cores:
 
 4. Play some [spelling games](http://www.mes-games.com/colors.php) - click on the **‘Spelling’** section and play 
 * ‘Missile defence’ ![mdef](/images/mdef.PNG)  
-   Choose the correct spelling then click on the red button./Escolher a ortografia certa e clicar no botão vermelho. 
-
+   Choose the correct spelling then click on the red button./Escolher a ortografia certa e clicar no botão vermelho.  
 * ‘Collect the stars’ ![star](/images/star.PNG)  
    Click on the letters to spell the colour then click on ‘Check’./Clicar nas letras no ecrã para soletrar a cor e clicar no ‘check’.
 
