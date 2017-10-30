@@ -27,19 +27,19 @@ Play some games to learn the colours/Jogar alguns jogos para apreender as cores:
 
 ### (2). The Alphabet
 
-Learn to spell aloud in English. 
+Learn to spell aloud in English./Apreender a soletrar em voz alta em inglês.
 
 1. Sing ![sing](/images/sing.png) the [alphabet song](https://www.youtube.com/watch?v=Y88p4V_BCEU) ![alph](/images/alph.png)
 
 2. Play the [Alphabet Antics game](http://learnenglishkids.britishcouncil.org/en/games/alphabet-antics) ![aant](/images/aant.PNG)
-* click on each letter to hear its name
-* start with the **easy** level, then challenge yourself with the medium and hard levels
+* click on each letter to hear its name / clicar em cada letra para ouvir o nome
+* start with the **easy** level, then challenge yourself with the medium and hard levels / Começar com o nível **easy**.
 
-3. Practise spelling your name aloud in English – use Alphabet Antics and click on the letters of your name to help.
+3. Practise spelling your name aloud in English – click on the letters of your name in Alphabet Antics to help. / Praticar a soletrar o próprio nome em voz alta - clicar nas letras no Alphabet Antics para ajudar.
 
-4. Extra challenge if you have time: Can you spell the names of other members of your family?
+4. Extra challenge if you have time: Can you spell the names of other members of your family? / Desafio extra para quem tem tempo: Soletrar os nomes dos outros membros da família.
 
-NB: You need Adobe Flash Player to play ‘Alphabet Antics’
+NB: You need Adobe Flash Player to play ‘Alphabet Antics’ / É preciso Adobe Flash Player para jogar ‘Alphabet Antics’
 
 ***
 
