@@ -59,26 +59,3 @@ This is a popular song used in English language classrooms. The important part i
 Olá/Olá, como é que se chama/te chamas?
 Eu consigo cantar um arco-iris
 
-rrrr
-rrr
-
-## 4444
-
-http://www.publico.pt
-
-[Publico](http://www.publico.pt)
-
-![my first image](/images/listen.png)
-
- ![PT]("Ouvir e cantar as canções:")
- 
- ![](https://upload.wikimedia.org/wikipedia/commons/2/2d/Portugal_flag_300.png?width=10% "Ouvir e cantar as canções:")
-
-
-![](english-homework.github.io/tangerina/images/flag.png?height=50px)
-
-![]([id]"Ouvir e cantar as canções:")
-
-[id]: <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Portugal_flag_300.png" width="50" /> 
-
-
