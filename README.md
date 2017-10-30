@@ -6,16 +6,13 @@ Play some games to learn the colours/Jogar alguns jogos para apreender as cores:
 1. [Match the colours to their names 1](https://learnenglishkids.britishcouncil.org/en/word-games/colours) ![bcol](/images/bcol.PNG)
 
 2. [Match the colours to their names 2](https://englishflashgames.blogspot.pt/2008/05/colours-game.html) ![ccol](/images/ccol.PNG)  
-
    Play the **beginner** level/Jogar no nível **beginner**
 
 3. Play [colour memory](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/) ![cmem](/images/cmem.PNG)  
-
    Play twice to cover all colours./Jogar duas vezes para ver todas as cores.
 
 4. Play some [spelling games](http://www.mes-games.com/colors.php) - click on the **‘Spelling’** section and play 
 * ![mdef](/images/mdef.PNG) ‘Missile defence’  
-
    Choose the correct spelling then click on the red button./Escolher a ortografia certa e clicar no botão vermelho. 
 
 * ![star](/images/star.PNG) ‘Collect the stars’  
