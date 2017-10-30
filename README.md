@@ -5,17 +5,17 @@
 Play some games to learn the colours/Jogar alguns jogos para apreender as cores: 
 1. [Match the colours to their names 1](https://learnenglishkids.britishcouncil.org/en/word-games/colours) ![bcol](/images/bcol.PNG)
 
-For each colour, students can click on the picture of the speaker next to the word to hear the correct pronunciation. To place the colour, click first on the word, then on the box below the correct coloured puddle./Para cada cor, alunos podem ‘clicar’ na imagem de auscultador a beira da palavra para ouvir a pronúnica correcta. Para associar as palavras às cores, primeiro faz-se um ‘clique’ na palavra, fazendo outro ‘clique’ logo a seguir na caixa cinzenta por baixo da mancha de cor correspondente.
-
 2. [Match the colours to their names 2](https://englishflashgames.blogspot.pt/2008/05/colours-game.html) ![ccol](/images/ccol.PNG)
-Play the **beginner** level
+Play the **beginner** level/Jogar no nível **beginner**
 
 3. Play [colour memory](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/) ![cmem](/images/cmem.PNG) 
-Play twice to use all the colours. / Jogar pelo menos duas vezes para cobrir todas as cores.
+Play twice to cover all colours./Jogar duas vezes para ver todas as cores.
 
 4. Play some [spelling games](http://www.mes-games.com/colors.php) - click on the **‘Spelling’** section and play 
-* ![mdef](/images/mdef.PNG) ‘Missile defence’: Choose the correct spelling then click on the red button to destroy the missiles./Escolher a ortografia certa para a cor mostrada no canto inferior direito. 
-* ![star](/images/star.PNG) ‘Collect the stars’: Click on the letters to spell each colour then click on ‘Check’./Clicar nas letras do teclado no ecrã para soletrar a cor e clicar no ‘check’.
+* ![mdef](/images/mdef.PNG) ‘Missile defence’
+Choose the correct spelling then click on the red button./Escolher a ortografia certa e clicar no botão vermelho. 
+* ![star](/images/star.PNG) ‘Collect the stars’
+Click on the letters to spell the colour then click on ‘Check’./Clicar nas letras no ecrã para soletrar a cor e clicar no ‘check’.
 
 ***
 
