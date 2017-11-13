@@ -15,7 +15,7 @@ Listen to each word. Can you find the object before it appears in colour? / Escu
 2). Play the [classroom memory game](https://www.freddiesville.com/games/school-supplies-memory-game/)[![comg](/images/comg.PNG)]( https://www.freddiesville.com/games/school-supplies-memory-game/)  
 Play three or four times to use all the words. / Jogar o jogo de memória com objectos da sala de aula. Jogar três ou quatro vezes para usar todas as palavras.
 
-3). Match the words to the pictures:[Part one:](https://learnenglishkids.britishcouncil.org/en/word-games/school-things-1)[![bcss1](/images/bcss1.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/school-things-1)[Part two:](https://learnenglishkids.britishcouncil.org/en/word-games/school-things-2)[![bcss2](/images/bcss2.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/school-things-2)
+3). Match the words to the pictures:[Part one:](https://learnenglishkids.britishcouncil.org/en/word-games/school-things-1)[![bcss1](/images/bcss1.png)](https://learnenglishkids.britishcouncil.org/en/word-games/school-things-1)[Part two:](https://learnenglishkids.britishcouncil.org/en/word-games/school-things-2)[![bcss2](/images/bcss2.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/school-things-2)
 
 4). Optional extra challenges / Desafios extras opcionais
 Do you know your classroom objects and you need an extra challenge? / Já sabes os objectos da sala de aula e precisas de mais um desafio?
