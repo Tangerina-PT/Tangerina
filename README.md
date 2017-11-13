@@ -6,7 +6,6 @@
 
 1). Watch the video ![chants](“Significado de ‘chant’: repetição de palavras e expressões de forma contínua e cadenciada, com ou sem música”) to learn the words. Say the chants as you watch. / Ver os vídeos para aprender as palavras. Repetir em voz alta.
 * [Talking flashcards](https://www.youtube.com/watch?v=g7kK989HiRQ) [![mlss](/images/mlss.PNG)](https://www.youtube.com/watch?v=g7kK989HiRQ)  
-(Just as well that’s not a real teacher at the end of the video :). / Ainda bem que não seja uma professora verdadeira no fim do vídeo :).)
 * [Kid’s Box chant](https://www.youtube.com/watch?v=3Ita5SaY4_4) [![kbss](/images/kbss.PNG)](https://www.youtube.com/watch?v=3Ita5SaY4_4)
 * [![pbbr](/images/pbbr.PNG)](https://www.youtube.com/watch?v=MuoJnFq9JwE)
 * [Find the object](https://www.youtube.com/watch?v=4XvIMPpqPKc) [![find](/images/find.PNG)](https://www.youtube.com/watch?v=4XvIMPpqPKc)  
