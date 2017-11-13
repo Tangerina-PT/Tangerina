@@ -22,7 +22,7 @@ Play three or four times to use all the words. / Jogar o jogo de memória com ob
 
 4). Optional extra challenges / Desafios extras opcionais
 Do you know your classroom objects and you need an extra challenge? / Já sabes os objectos da sala de aula e precisas de mais um desafio?
-* Play the [![‘questions’](/images/tcss.PNG)](http://www.mes-games.com/classroom1.phpd) and [![‘spelling’](/images/sssp.PNG)](http://www.mes-games.com/classroom1.phpd) games: / Jogar os jogos: [‘questions’ e ‘spelling’](http://www.mes-games.com/classroom1.phpd)
+* Play the [‘questions’](http://www.mes-games.com/classroom1.phpd)[![tcss](/images/tcss.PNG)](http://www.mes-games.com/classroom1.phpd) and [‘spelling’](http://www.mes-games.com/classroom1.phpd)[![sssp](/images/sssp.PNG)](http://www.mes-games.com/classroom1.phpd) games: / Jogar os jogos: [‘questions’ e ‘spelling’](http://www.mes-games.com/classroom1.phpd)
 * [Word search:](https://www.freddiesville.com/games/school-materials-vocabulary-word-search-puzzle-online/) [![cows](/images/cows.PNG)]((https://www.freddiesville.com/games/school-materials-vocabulary-word-search-puzzle-online/)
 * [Crossword puzzle:](https://www.freddiesville.com/games/school-supplies-vocabulary-crossword-puzzle-online/) [![cocw](/images/cocw.PNG)](https://www.freddiesville.com/games/school-supplies-vocabulary-crossword-puzzle-online/)
 
