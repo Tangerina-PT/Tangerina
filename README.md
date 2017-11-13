@@ -9,7 +9,7 @@
 (Just as well that’s not a real teacher at the end of the video :). / Ainda bem que não seja uma professora verdadeira no fim do vídeo :).)
 * [Kid’s Box chant](https://www.youtube.com/watch?v=3Ita5SaY4_4)[![kbss](/images/kbss.PNG)](https://www.youtube.com/watch?v=3Ita5SaY4_4)
 * [![pbbr](/images/pbbr.PNG)](https://www.youtube.com/watch?v=MuoJnFq9JwE)
-* [Find the object](https://www.youtube.com/watch?v=4XvIMPpqPKc)[![name](/images/name.PNG)](https://www.youtube.com/watch?v=4XvIMPpqPKc)
+* [Find the object](https://www.youtube.com/watch?v=4XvIMPpqPKc)[![find](/images/find.PNG)](https://www.youtube.com/watch?v=4XvIMPpqPKc)
 Listen to each word. Can you find the object before it appears in colour? / Escutar cada palavra – encontrar o objecto antes do objecto ficar colorido. 
 
 2). Play the [classroom memory game](https://www.freddiesville.com/games/school-supplies-memory-game/)[![comg](/images/comg.PNG)]( https://www.freddiesville.com/games/school-supplies-memory-game/) 
