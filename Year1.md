@@ -21,11 +21,11 @@ Play some games to learn the colours/Jogar alguns jogos para aprender as cores:
 Select the game ‘Colors’ / Escolher o jogo ‘Colors’ ![cobi2](/images/cobi2.PNG)
 
 2). Play / jogar [![meco](/images/meco.PNG)](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/) [colour memory](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/) / [memória usando as cores](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/)  
-3). [![comx3](/images/comx3.PNG)](https://kidsgoflash.com/homepage-featured/color-mixer/) [Colour mixer](https://kidsgoflash.com/homepage-featured/color-mixer/) / [Misturador de cores](https://kidsgoflash.com/homepage-featured/color-mixer/)  
+3). [Colour mixer](https://kidsgoflash.com/homepage-featured/color-mixer/) / [Misturador de cores](https://kidsgoflash.com/homepage-featured/color-mixer/) [![comx3](/images/comx3.PNG)](https://kidsgoflash.com/homepage-featured/color-mixer/)  
 First click on ![comx1](/images/comx1.PNG) to experiment then click on ![comx2](/images/comx2.PNG) to play - a voice will ask you to make a particular colour by choosing the colours to mix. / Primeiro clicar em ![comx1](/images/comx1.PNG) para experimentar depois clicar em ![comx2](/images/comx2.PNG) para jogar – uma voz pedirá que faça uma cor por escolher as cores a misturar.  
 4). Other colour games / outros jogos com cores:  
-[![ssbl](/images/ssbl.PNG)](http://www.sheppardsoftware.com/preschool/ngames/colors.htm) [Blooper's colours](http://www.sheppardsoftware.com/preschool/ngames/colors.htm)  
-[![ssco](/images/ssco.PNG)](http://www.sheppardsoftware.com/preschool/colors/colorgame.htm)  [Colour sort](http://www.sheppardsoftware.com/preschool/colors/colorgame.htm) Learn some new words in English... / Aprender novas palavras em inglês...
+[Blooper's colours](http://www.sheppardsoftware.com/preschool/ngames/colors.htm) [![ssbl](/images/ssbl.PNG)](http://www.sheppardsoftware.com/preschool/ngames/colors.htm)   
+[![ssco](/images/ssco.PNG)](http://www.sheppardsoftware.com/preschool/colors/colorgame.htm)  [Colour sort](http://www.sheppardsoftware.com/preschool/colors/colorgame.htm) Learn some new words... / Aprender novas palavras...
 
 #### Song
 
