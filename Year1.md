@@ -18,7 +18,7 @@ http://www.sheppardsoftware.com/preschool/colors/colorgame.htm
 Learn some new words in English. /Aprender novas palavras em inglês.
 
 
-### (1). What’s your name? My name is… /I’m…; How are you? I’m fine, thank you.
+### (1). What’s your name? My name is… /I’m… and How are you? I’m fine, thank you
 
 1. Listen to ![listen](/images/listen.png) and sing ![sing](/images/sing.png) the song: [Hello hello, what’s your name?](https://www.youtube.com/watch?v=Uv1JkBL5728) [![wyn](/images/wyn1.png)](https://www.youtube.com/watch?v=Uv1JkBL5728)
 
