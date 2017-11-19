@@ -1,4 +1,4 @@
-## Year 1 English 2017/2018 - Period 1
+## Year 1 English - 2017/2018 - Period 1
 ***
 ### Topic 3 - Body parts
 
