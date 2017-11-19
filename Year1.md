@@ -5,14 +5,15 @@
 
 #### Games
 
-Play some games to learn the colours/Jogar alguns jogos para aprender as cores: 
-1). Play [colour bingo](http://www.abcya.com/shapes_colors_bingo.htm) [![cobi](/images/cobi.PNG)](http://www.abcya.com/shapes_colors_bingo.htm) Select the game ‘Colors’ ![cobi2](/images/cobi2.PNG) / Jogar [bingo usando as cores](http://www.abcya.com/shapes_colors_bingo.htm) Escolher o jogo ‘Colors’
+Play some games to learn the colours/Jogar alguns jogos para aprender as cores:  
+1). Play [colour bingo](http://www.abcya.com/shapes_colors_bingo.htm) [![cobi](/images/cobi.PNG)](http://www.abcya.com/shapes_colors_bingo.htm)/Jogar [bingo usando as cores](http://www.abcya.com/shapes_colors_bingo.htm)  
+Select the game ‘Colors’ / Escolher o jogo ‘Colors’ ![cobi2](/images/cobi2.PNG)
 
-2). Play [colour memory](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/) [![meco](/images/meco.PNG)](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/) / Jogar [memória usando as cores](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/) 
-3). [Colour mixer](https://kidsgoflash.com/homepage-featured/color-mixer/) [![comx1](/images/comx1.PNG)](https://kidsgoflash.com/homepage-featured/color-mixer/): first click on ![comx2](/images/comx2.PNG) to experiment then click on ![comx3](/images/comx3.PNG) to play (a voice will ask you to make a particular colour by choosing which colours to mix). / [Misturar cores](https://kidsgoflash.com/homepage-featured/color-mixer/): primeiro clicar em ![comx2](/images/comx2.PNG) para experimentar depois clicar em ![comx3](/images/comx3.PNG) para jogar – uma voz pedirá que faça uma cor por escolher as cores a misturar. 
-4). Other colour games / outros jogos com cores: 
-[![ssbl](/images/ssbl.PNG)](http://www.sheppardsoftware.com/preschool/ngames/colors.htm)
-[![ssco](/images/ssco.PNG)](http://www.sheppardsoftware.com/preschool/colors/colorgame.htm)
+2). Play [colour memory](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/) [![meco](/images/meco.PNG)](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/) / Jogar [memória usando as cores](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/)  
+3). [Colour mixer](https://kidsgoflash.com/homepage-featured/color-mixer/) [![comx1](/images/comx1.PNG)](https://kidsgoflash.com/homepage-featured/color-mixer/): first click on ![comx2](/images/comx2.PNG) to experiment then click on ![comx3](/images/comx3.PNG) to play (a voice will ask you to make a particular colour by choosing which colours to mix). / [Misturar cores](https://kidsgoflash.com/homepage-featured/color-mixer/): primeiro clicar em ![comx2](/images/comx2.PNG) para experimentar depois clicar em ![comx3](/images/comx3.PNG) para jogar – uma voz pedirá que faça uma cor por escolher as cores a misturar.  
+4). Other colour games / outros jogos com cores:  
+[![ssbl](/images/ssbl.PNG)](http://www.sheppardsoftware.com/preschool/ngames/colors.htm)  
+[![ssco](/images/ssco.PNG)](http://www.sheppardsoftware.com/preschool/colors/colorgame.htm)  
 Learn some new words in English... / Aprender novas palavras em inglês...
 
 
