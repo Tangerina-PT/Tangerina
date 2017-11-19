@@ -1,5 +1,16 @@
 ## Year 1 English 2017/2018
 ***
+### (3). Body parts
+
+#### Song
+
+Heads shoulders knees and toes / Cabeças, ombros, joelhos e dedos dos pés  
+1) [Learn the words](https://www.youtube.com/watch?v=lMQcwNZVUO8) [![hsktl](/images/hsktl.PNG)](https://www.youtube.com/watch?v=lMQcwNZVUO8) / [Aprender as palavras](https://www.youtube.com/watch?v=lMQcwNZVUO8)  
+2) [Sing along](https://www.youtube.com/watch?v=ZanHgPprl-0) [![hskts](/images/hskts.PNG)](https://www.youtube.com/watch?v=ZanHgPprl-0)/ [Cantar](https://www.youtube.com/watch?v=ZanHgPprl-0)  
+3) Can you sing [this version](https://www.youtube.com/watch?v=FkL8j0wIRf8) [![hsktg](/images/hsktg.PNG)](https://www.youtube.com/watch?v=FkL8j0wIRf8) where each time we skip more and more of the words? / Tentar cantar [a versão que salta palavras](https://www.youtube.com/watch?v=FkL8j0wIRf8).  
+4) Can you sing the song while you point to the pictures in order in your notebook? / Cantar ao apontar às imagens ordenadas no teu caderno. 
+5) Extra challenge: can you sing the song and point to the correct pictures when the pictures are not in order? / Desafio extra – cantar ao apontar às imagens fora de ordem.
+
 ***
 ### (2). Colours
 
@@ -18,13 +29,12 @@ Learn some new words in English... / Aprender novas palavras em inglês...
 
 #### Song
 
-I can sing a rainbow  (Eu consigo cantar um arco-iris)
+I can sing a rainbow / Eu consigo cantar um arco-iris
 1). Listen to ![listen](/images/listen.png) and sing ![sing](/images/sing.png) the song:
 [I can sing a rainbow](https://www.youtube.com/watch?v=rNFW5JK4-rk) [![sar1](/images/sar1.png)](https://www.youtube.com/watch?v=rNFW5JK4-rk)  
 Watch the colours as you sing. / Ver as cores ao cantar.  
-2). Can you sing the song while pointing to the colours in order in your notebook? / Cantar o canção ao pontar para as cores em ordem no caderno.  
+2). Can you sing the song while pointing to the colours in order in your notebook? / Cantar o canção ao apontar para as cores em ordem no caderno.  
 3). Challenge: Can you sing the while pointing to the colours when they are out of order? / Desafio: Cantar o canção ao apontar para as cores quando estão fora de ordem. 
-
 
 ### (1). What’s your name? My name is… /I’m… and How are you? I’m fine, thank you
 
