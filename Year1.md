@@ -4,7 +4,7 @@
 
 #### Song: *Heads, shoulders, knees and toes* (*Cabeças, ombros, joelhos e dedos dos pés*)  
 1) [Learn the words](https://www.youtube.com/watch?v=lMQcwNZVUO8) [![hsktl](/images/hsktl.PNG)](https://www.youtube.com/watch?v=lMQcwNZVUO8) / [Aprender as palavras](https://www.youtube.com/watch?v=lMQcwNZVUO8)  
-2) [Sing along](https://www.youtube.com/watch?v=ZanHgPprl-0) [![hskts](/images/hskts.PNG)](https://www.youtube.com/watch?v=ZanHgPprl-0)/ [Cantar](https://www.youtube.com/watch?v=ZanHgPprl-0)  
+2) [Sing along](https://www.youtube.com/watch?v=ZanHgPprl-0) [![hskts](/images/hskts.PNG)](https://www.youtube.com/watch?v=ZanHgPprl-0)/ [Cantar](https://www.youtube.com/watch?v=ZanHgPprl-0) ![sing](/images/sing.png)  
 3) Can you sing [this version](https://www.youtube.com/watch?v=FkL8j0wIRf8) [![hsktg](/images/hsktg.PNG)](https://www.youtube.com/watch?v=FkL8j0wIRf8) where each time we skip more and more of the words? / Tentar cantar [a versão que salta palavras](https://www.youtube.com/watch?v=FkL8j0wIRf8).  
 &nbsp;
 4) Can you sing the song while you point to the pictures in order in your notebook? / Cantar ao apontar às imagens ordenadas no teu caderno.  
@@ -22,6 +22,7 @@ Select the game ‘Colors’ / Escolher o jogo ‘Colors’ ![cobi2](/images/cob
 2). Play [![meco](/images/meco.PNG)](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/) [colour memory](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/) / Jogar [memória usando as cores](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/)  
 3). [Colour mixer](https://kidsgoflash.com/homepage-featured/color-mixer/) / [Misturador de cores](https://kidsgoflash.com/homepage-featured/color-mixer/) [![comx3](/images/comx3.PNG)](https://kidsgoflash.com/homepage-featured/color-mixer/)  
 First click on ![comx1](/images/comx1.PNG) to experiment then click on ![comx2](/images/comx2.PNG) to play - a voice will ask you to make a particular colour by choosing the colours to mix. / Primeiro clicar em ![comx1](/images/comx1.PNG) para experimentar depois clicar em ![comx2](/images/comx2.PNG) para jogar – uma voz pedirá que faça uma cor por escolher as cores a misturar.  
+&nbsp;
 4). Other colour games / outros jogos com cores:  
 [Blooper's colours](http://www.sheppardsoftware.com/preschool/ngames/colors.htm) [![ssbl](/images/ssbl.PNG)](http://www.sheppardsoftware.com/preschool/ngames/colors.htm)   
 [![ssco](/images/ssco.PNG)](http://www.sheppardsoftware.com/preschool/colors/colorgame.htm)  [Colour sort](http://www.sheppardsoftware.com/preschool/colors/colorgame.htm) Learn some new words... / Aprender novas palavras...
