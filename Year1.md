@@ -3,7 +3,7 @@
 ### Topic 3 - Body parts
 
 #### Song: *Head, shoulders, knees and toes* (*Cabeça, ombros, joelhos e dedos dos pés*)  
-(1). [Learn the words](https://www.youtube.com/watch?v=lMQcwNZVUO8) [![hsktl](/images/hsktl.PNG)](https://www.youtube.com/watch?v=lMQcwNZVUO8) / [Aprenda as palavras](https://www.youtube.com/watch?v=lMQcwNZVUO8) 
+(1). [Learn the words](https://www.youtube.com/watch?v=lMQcwNZVUO8) [![hsktl](/images/hsktl.PNG)](https://www.youtube.com/watch?v=lMQcwNZVUO8) / [Aprende as palavras](https://www.youtube.com/watch?v=lMQcwNZVUO8) 
 Touch your head, shoulders, knees and toes as you sing. / Toca na cabeça, nos ombros, nos joelhos e nos dedos dos pés ao cantar.  
 
 2) [Sing along](https://www.youtube.com/watch?v=ZanHgPprl-0) [![hskts](/images/hskts.PNG)](https://www.youtube.com/watch?v=ZanHgPprl-0) / [Canta](https://www.youtube.com/watch?v=ZanHgPprl-0) ![sing](/images/sing.png)  
