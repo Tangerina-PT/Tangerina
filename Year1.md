@@ -29,7 +29,7 @@ First click on ![comx1](/images/comx1.PNG) to experiment then click on ![comx2](
 
 #### Song
 
-I can sing a rainbow / Eu consigo cantar um arco-iris
+I can sing a rainbow / Eu consigo cantar um arco-iris  
 1). Listen to ![listen](/images/listen.png) and sing ![sing](/images/sing.png) the song:
 [I can sing a rainbow](https://www.youtube.com/watch?v=rNFW5JK4-rk) [![sar1](/images/sar1.png)](https://www.youtube.com/watch?v=rNFW5JK4-rk)  
 Watch the colours as you sing. / Ver as cores ao cantar.  
