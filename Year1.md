@@ -6,7 +6,7 @@
 #### Games
 
 Play some games to learn the colours/Jogar alguns jogos para aprender as cores:
-1). Play [colour bingo](http://www.abcya.com/shapes_colors_bingo.htm) [![cobi](/images/cobi.png)](http://www.abcya.com/shapes_colors_bingo.htm) Select ‘colour bingo’ ![cobi2](/images/cobi2.png)/ Jogar [bingo usando as cores](http://www.abcya.com/shapes_colors_bingo.htm) Escolher ‘colour bingo’
+1). Play [colour bingo](http://www.abcya.com/shapes_colors_bingo.htm) [![cobi](/images/cobi.PNG)](http://www.abcya.com/shapes_colors_bingo.htm) Select ‘colour bingo’ ![cobi2](/images/cobi2.PNG)/ Jogar [bingo usando as cores](http://www.abcya.com/shapes_colors_bingo.htm) Escolher ‘colour bingo’
 
 2). Play colour memory / Jogar memória com as cores
 https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/
@@ -22,7 +22,7 @@ Learn some new words in English. /Aprender novas palavras em inglês.
 
 1. Listen to ![listen](/images/listen.png) and sing ![sing](/images/sing.png) the song: [Hello hello, what’s your name?](https://www.youtube.com/watch?v=Uv1JkBL5728) [![wyn](/images/wyn1.png)](https://www.youtube.com/watch?v=Uv1JkBL5728)
 
-2. Watch [Gogo’s Adventures with English 1](https://www.youtube.com/watch?v=9R5-W3bMX4E) [!gae1]((/images/gae1.png)](https://www.youtube.com/watch?v=9R5-W3bMX4E)
+2. Watch [Gogo’s Adventures with English 1](https://www.youtube.com/watch?v=9R5-W3bMX4E) [!gae1]((/images/gae1.PNG)](https://www.youtube.com/watch?v=9R5-W3bMX4E)
 
 ***
 
