@@ -2,7 +2,7 @@
 ***
 ### (3). Body parts
 
-#### Song: *Heads, shoulders, knees and toes* (*Cabeças, ombros, joelhos e dedos dos pés*)  
+#### Song: *Head, shoulders, knees and toes* (*Cabeça, ombros, joelhos e dedos dos pés*)  
 1) [Learn the words](https://www.youtube.com/watch?v=lMQcwNZVUO8) [![hsktl](/images/hsktl.PNG)](https://www.youtube.com/watch?v=lMQcwNZVUO8) / [Aprender as palavras](https://www.youtube.com/watch?v=lMQcwNZVUO8) 
 Touch your head, shoulders, knees and toes as you sing. / Tocar na cabeça, nos ombros, nos joelhos e nos dedos dos pés ao cantar.  
 2) [Sing along](https://www.youtube.com/watch?v=ZanHgPprl-0) [![hskts](/images/hskts.PNG)](https://www.youtube.com/watch?v=ZanHgPprl-0) / [Cantar](https://www.youtube.com/watch?v=ZanHgPprl-0) ![sing](/images/sing.png)  
@@ -13,7 +13,7 @@ Touch your head, shoulders, knees and toes as you sing. / Tocar na cabeça, nos 
 ![head](/images/head.png)![shou](/images/shou.png)![knee](/images/knee.png)![toes](/images/toes.png)  
 ![eyes](/images/eyes.png)![ears](/images/ears.png)![mout](/images/mout.png)![nose](/images/nose.png)  
 
-5) Extra challenge: can you sing the song and point to the correct pictures when the pictures are not in order? / Desafio extra:cantar ao apontar às imagens fora de ordem.
+5) Extra challenge: can you sing the song and point to the correct pictures when the pictures are not in order? / Desafio extra:cantar ao apontar às imagens fora de ordem.  
 ![nose](/images/nose.png)![toes](/images/toes.png)![ears](/images/ears.png)![shou](/images/shou.png)  
 ![knee](/images/knee.png)![eyes](/images/eyes.png)![head](/images/head.png)![mout](/images/mout.png)  
 
