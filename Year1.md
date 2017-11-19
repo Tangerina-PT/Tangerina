@@ -26,7 +26,7 @@ Touch your head, shoulders, knees and toes as you sing. Teach the song to someon
 #### Games
 
 Play some games to learn the colours/Jogar alguns jogos para aprender as cores:  
-1). Play [![cobi](/images/cobi.PNG)](http://www.abcya.com/shapes_colors_bingo.htm) [colour bingo](http://www.abcya.com/shapes_colors_bingo.htm) / Jogar [bingo usando as cores](http://www.abcya.com/shapes_colors_bingo.htm)  
+1). Play [![cobi](/images/cobi.PNG)](http://www.abcya.com/shapes_colors_bingo.htm) [colour bingo](http://www.abcya.com/shapes_colors_bingo.htm) / Jogar [bingo das cores](http://www.abcya.com/shapes_colors_bingo.htm)  
 Select the game ‘Colors’ / Escolher o jogo ‘Colors’ ![cobi2](/images/cobi2.PNG)
 
 2). Play [![meco](/images/meco.PNG)](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/) [colour memory](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/) / Jogar [memória usando as cores](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/)  
