@@ -5,11 +5,14 @@
 #### Song: *Head, shoulders, knees and toes* (*Cabeça, ombros, joelhos e dedos dos pés*)  
 1) [Learn the words](https://www.youtube.com/watch?v=lMQcwNZVUO8) [![hsktl](/images/hsktl.PNG)](https://www.youtube.com/watch?v=lMQcwNZVUO8) / [Aprender as palavras](https://www.youtube.com/watch?v=lMQcwNZVUO8) 
 Touch your head, shoulders, knees and toes as you sing. / Tocar na cabeça, nos ombros, nos joelhos e nos dedos dos pés ao cantar.  
+
 2) [Sing along](https://www.youtube.com/watch?v=ZanHgPprl-0) [![hskts](/images/hskts.PNG)](https://www.youtube.com/watch?v=ZanHgPprl-0) / [Cantar](https://www.youtube.com/watch?v=ZanHgPprl-0) ![sing](/images/sing.png)  
+Touch your head, shoulders, knees and toes as you sing. / Tocar na cabeça, nos ombros, nos joelhos e nos dedos dos pés ao cantar.  
+
 3) Can you sing [this version](https://www.youtube.com/watch?v=FkL8j0wIRf8) [![hsktg](/images/hsktg.PNG)](https://www.youtube.com/watch?v=FkL8j0wIRf8) where each time we skip more and more of the words? / Tentar cantar [a versão que salta palavras](https://www.youtube.com/watch?v=FkL8j0wIRf8).   
 
 
-4) Can you sing the song while you point to the pictures in order? / Cantar ao apontar às imagens ordenadas.  
+4) Challenge: can you sing the song while you point to the pictures? / Cantar ao apontar às imagens.  
 ![head](/images/head.png)![shou](/images/shou.png)![knee](/images/knee.png)![toes](/images/toes.png)  
 ![eyes](/images/eyes.png)![ears](/images/ears.png)![mout](/images/mout.png)![nose](/images/nose.png)  
 
