@@ -2,7 +2,7 @@
 ***
 ### (3). Body parts
 
-#### Song: Heads shoulders knees and toes / Cabeças, ombros, joelhos e dedos dos pés  
+#### Song: *Heads shoulders knees and toes* / *Cabeças, ombros, joelhos e dedos dos pés*  
 1) [Learn the words](https://www.youtube.com/watch?v=lMQcwNZVUO8) [![hsktl](/images/hsktl.PNG)](https://www.youtube.com/watch?v=lMQcwNZVUO8) / [Aprender as palavras](https://www.youtube.com/watch?v=lMQcwNZVUO8)  
 2) [Sing along](https://www.youtube.com/watch?v=ZanHgPprl-0) [![hskts](/images/hskts.PNG)](https://www.youtube.com/watch?v=ZanHgPprl-0)/ [Cantar](https://www.youtube.com/watch?v=ZanHgPprl-0)  
 3) Can you sing [this version](https://www.youtube.com/watch?v=FkL8j0wIRf8) [![hsktg](/images/hsktg.PNG)](https://www.youtube.com/watch?v=FkL8j0wIRf8) where each time we skip more and more of the words? / Tentar cantar [a versão que salta palavras](https://www.youtube.com/watch?v=FkL8j0wIRf8).  
@@ -25,7 +25,7 @@ First click on ![comx1](/images/comx1.PNG) to experiment then click on ![comx2](
 [Blooper's colours](http://www.sheppardsoftware.com/preschool/ngames/colors.htm) [![ssbl](/images/ssbl.PNG)](http://www.sheppardsoftware.com/preschool/ngames/colors.htm)   
 [![ssco](/images/ssco.PNG)](http://www.sheppardsoftware.com/preschool/colors/colorgame.htm)  [Colour sort](http://www.sheppardsoftware.com/preschool/colors/colorgame.htm) Learn some new words... / Aprender novas palavras...
 
-#### Song: I can sing a rainbow / Eu consigo cantar um arco-iris  
+#### Song: *I can sing a rainbow* / *Eu consigo cantar um arco-iris*  
 1). Listen to ![listen](/images/listen.png) and sing ![sing](/images/sing.png) the song:
 [I can sing a rainbow](https://www.youtube.com/watch?v=rNFW5JK4-rk) [![sar1](/images/sar1.png)](https://www.youtube.com/watch?v=rNFW5JK4-rk)  
 Watch the colours as you sing. / Ver as cores ao cantar.  
