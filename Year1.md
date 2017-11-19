@@ -20,9 +20,10 @@ Learn some new words in English... / Aprender novas palavras em inglês...
 
 I can sing a rainbow  (Eu consigo cantar um arco-iris)
 1). Listen to ![listen](/images/listen.png) and sing ![sing](/images/sing.png) the song:
-[I can sing a rainbow](https://www.youtube.com/watch?v=rNFW5JK4-rk) [![sar1](/images/sar1.png)](https://www.youtube.com/watch?v=rNFW5JK4-rk) Watch the colours as you sing.
-2). Can you sing the song while pointing to the colours in order in your notebook?
-3). Challenge: Can you sing the while pointing to the colours when they are out of order?
+[I can sing a rainbow](https://www.youtube.com/watch?v=rNFW5JK4-rk) [![sar1](/images/sar1.png)](https://www.youtube.com/watch?v=rNFW5JK4-rk)  
+Watch the colours as you sing. / Ver as cores ao cantar.  
+2). Can you sing the song while pointing to the colours in order in your notebook? / Cantar o canção ao pontar para as cores em ordem no caderno.  
+3). Challenge: Can you sing the while pointing to the colours when they are out of order? / Desafio: Cantar o canção ao apontar para as cores quando estão fora de ordem. 
 
 
 ### (1). What’s your name? My name is… /I’m… and How are you? I’m fine, thank you
