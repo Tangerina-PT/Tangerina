@@ -42,7 +42,7 @@ First click on ![comx1](/images/comx1.PNG) to experiment then click on ![comx2](
 [I can sing a rainbow](https://www.youtube.com/watch?v=rNFW5JK4-rk) [![sar1](/images/sar1.png)](https://www.youtube.com/watch?v=rNFW5JK4-rk)  
 Watch the colours as you sing. / Olha para as cores ao cantar.  
 
-2). Put 7 coloured pencils or markers in the order the colours appear in the song: red, yellow, pink, green, purple, orange, blue. Can you sing the song while pointing to each colour as your sing? / Põe sete lápis de cor ou marcadores na ordem em que aparecem na canção: vermelho, amarelo, cor de rosa, verde, roxo, laranja, azul. Canta a canção ao apontar para as cores na altura certa.  
+2). Put 7 coloured pencils or markers in the order the colours appear in the song: red, yellow, pink, green, purple, orange, blue. Can you sing the song and point to each colour as you say its name? / Põe sete lápis de cor ou marcadores na ordem em que aparecem na canção: vermelho, amarelo, cor de rosa, verde, roxo, laranja, azul. Consegues cantar a canção ao apontar para as cores na altura certa?  
 
 3). Challenge: Muddle up the colours. Can you sing the song while pointing to the colours when they are out of order? / Desafio: Desarruma as cores. Consegues cantar a canção ao apontar para as cores quando estão fora de ordem. 
 
