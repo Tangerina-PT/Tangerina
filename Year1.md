@@ -1,7 +1,7 @@
 ## Year 1 English 2017/2018
 ***
 ***
-### (3). Colours
+### (2). Colours
 
 #### Games
 
@@ -10,11 +10,19 @@ Play some games to learn the colours/Jogar alguns jogos para aprender as cores:
 Select the game ‘Colors’ / Escolher o jogo ‘Colors’ ![cobi2](/images/cobi2.PNG)
 
 2). Play [colour memory](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/) [![meco](/images/meco.PNG)](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/) / Jogar [memória usando as cores](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/)  
-3). [Colour mixer](https://kidsgoflash.com/homepage-featured/color-mixer/) [![comx1](/images/comx1.PNG)](https://kidsgoflash.com/homepage-featured/color-mixer/): first click on ![comx2](/images/comx2.PNG) to experiment then click on ![comx3](/images/comx3.PNG) to play (a voice will ask you to make a particular colour by choosing which colours to mix). / [Misturar cores](https://kidsgoflash.com/homepage-featured/color-mixer/): primeiro clicar em ![comx2](/images/comx2.PNG) para experimentar depois clicar em ![comx3](/images/comx3.PNG) para jogar – uma voz pedirá que faça uma cor por escolher as cores a misturar.  
+3). [Colour mixer](https://kidsgoflash.com/homepage-featured/color-mixer/) [![comx3](/images/comx3.PNG)](https://kidsgoflash.com/homepage-featured/color-mixer/): first click on ![comx1](/images/comx1.PNG) to experiment then click on ![comx2](/images/comx2.PNG) to play (a voice will ask you to make a particular colour by choosing which colours to mix). / [Misturar cores](https://kidsgoflash.com/homepage-featured/color-mixer/): primeiro clicar em ![comx2](/images/comx2.PNG) para experimentar depois clicar em ![comx3](/images/comx3.PNG) para jogar – uma voz pedirá que faça uma cor por escolher as cores a misturar.  
 4). Other colour games / outros jogos com cores:  
 [![ssbl](/images/ssbl.PNG)](http://www.sheppardsoftware.com/preschool/ngames/colors.htm)  
 [![ssco](/images/ssco.PNG)](http://www.sheppardsoftware.com/preschool/colors/colorgame.htm)  
 Learn some new words in English... / Aprender novas palavras em inglês...
+
+#### Song
+
+I can sing a rainbow  (Eu consigo cantar um arco-iris)
+1). Listen to ![listen](/images/listen.png) and sing ![sing](/images/sing.png) the song:
+[I can sing a rainbow](https://www.youtube.com/watch?v=rNFW5JK4-rk) [![sar1](/images/sar1.png)](https://www.youtube.com/watch?v=rNFW5JK4-rk) Watch the colours as you sing.
+2). Can you sing the song while pointing to the colours in order in your notebook?
+3). Challenge: Can you sing the while pointing to the colours when they are out of order?
 
 
 ### (1). What’s your name? My name is… /I’m… and How are you? I’m fine, thank you
