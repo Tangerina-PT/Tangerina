@@ -1,6 +1,6 @@
 ## Year 1 English - First period - 2017/2018
 ***
-### (Topic 3). Body parts
+### Topic 3 - Body parts
 
 #### Song: *Head, shoulders, knees and toes* (*Cabeça, ombros, joelhos e dedos dos pés*)  
 1) [Learn the words](https://www.youtube.com/watch?v=lMQcwNZVUO8) [![hsktl](/images/hsktl.PNG)](https://www.youtube.com/watch?v=lMQcwNZVUO8) / [Aprenda as palavras](https://www.youtube.com/watch?v=lMQcwNZVUO8) 
@@ -21,7 +21,7 @@ Touch your head, shoulders, knees and toes as you sing. Teach the song to someon
 ![knee](/images/knee.png)![eyes](/images/eyes.png)![head](/images/head.png)![mout](/images/mout.png)  
 
 ***
-### (Topic 2). Colours
+### Topic 2 - Colours
 
 #### Games
 
@@ -46,7 +46,9 @@ Watch the colours as you sing. / Veja as cores ao cantar.
 
 3). Challenge: Muddle up the colours. Can you sing the song while pointing to the colours when they are out of order? / Desafio: Desarrume as cores. Cante a canção ao apontar para as cores quando estão fora de ordem. 
 
-### (Topic 1). Greetings
+***
+
+### Topic 1 - Greetings
 
 #### 'What’s your name?', 'My name is…'/'I’m…', 'How are you?', 'I’m fine, thank you.'
 
