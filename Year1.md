@@ -7,7 +7,7 @@
 Touch your head, shoulders, knees and toes as you sing. / Tocar na cabeça, nos ombros, nos joelhos e nos dedos dos pés ao cantar.  
 
 2) [Sing along](https://www.youtube.com/watch?v=ZanHgPprl-0) [![hskts](/images/hskts.PNG)](https://www.youtube.com/watch?v=ZanHgPprl-0) / [Cantar](https://www.youtube.com/watch?v=ZanHgPprl-0) ![sing](/images/sing.png)  
-Touch your head, shoulders, knees and toes as you sing. / Tocar na cabeça, nos ombros, nos joelhos e nos dedos dos pés ao cantar.  
+Touch your head, shoulders, knees and toes as you sing. Teach the song to someone in your family. / Tocar na cabeça, nos ombros, nos joelhos e nos dedos dos pés ao cantar. Ensinar a canção a alguém da família. 
 
 3) Can you sing [this version](https://www.youtube.com/watch?v=FkL8j0wIRf8) [![hsktg](/images/hsktg.PNG)](https://www.youtube.com/watch?v=FkL8j0wIRf8) where each time we skip more and more of the words? / Tentar cantar [a versão que salta palavras](https://www.youtube.com/watch?v=FkL8j0wIRf8).   
 
