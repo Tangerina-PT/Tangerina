@@ -16,7 +16,7 @@ Touch your head, shoulders, knees and toes as you sing. / Tocar na cabeça, nos 
 ![head](/images/head.png)![shou](/images/shou.png)![knee](/images/knee.png)![toes](/images/toes.png)  
 ![eyes](/images/eyes.png)![ears](/images/ears.png)![mout](/images/mout.png)![nose](/images/nose.png)  
 
-5) Extra challenge: can you sing the song and point to the correct pictures when the pictures are not in order? / Desafio extra:cantar ao apontar às imagens fora de ordem.  
+5) Extra challenge: can you sing the song and point to the correct pictures when the pictures are not in order? / Desafio extra:cantar ao apontar às imagens quando estão fora de ordem.  
 ![nose](/images/nose.png)![toes](/images/toes.png)![ears](/images/ears.png)![shou](/images/shou.png)  
 ![knee](/images/knee.png)![eyes](/images/eyes.png)![head](/images/head.png)![mout](/images/mout.png)  
 
