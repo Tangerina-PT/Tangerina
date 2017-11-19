@@ -3,20 +3,20 @@
 ### (Topic 3). Body parts
 
 #### Song: *Head, shoulders, knees and toes* (*Cabeça, ombros, joelhos e dedos dos pés*)  
-1) [Learn the words](https://www.youtube.com/watch?v=lMQcwNZVUO8) [![hsktl](/images/hsktl.PNG)](https://www.youtube.com/watch?v=lMQcwNZVUO8) / [Aprender as palavras](https://www.youtube.com/watch?v=lMQcwNZVUO8) 
-Touch your head, shoulders, knees and toes as you sing. / Tocar na cabeça, nos ombros, nos joelhos e nos dedos dos pés ao cantar.  
+1) [Learn the words](https://www.youtube.com/watch?v=lMQcwNZVUO8) [![hsktl](/images/hsktl.PNG)](https://www.youtube.com/watch?v=lMQcwNZVUO8) / [Aprenda as palavras](https://www.youtube.com/watch?v=lMQcwNZVUO8) 
+Touch your head, shoulders, knees and toes as you sing. / Toque na cabeça, nos ombros, nos joelhos e nos dedos dos pés ao cantar.  
 
 2) [Sing along](https://www.youtube.com/watch?v=ZanHgPprl-0) [![hskts](/images/hskts.PNG)](https://www.youtube.com/watch?v=ZanHgPprl-0) / [Cantar](https://www.youtube.com/watch?v=ZanHgPprl-0) ![sing](/images/sing.png)  
-Touch your head, shoulders, knees and toes as you sing. Teach the song to someone in your family. / Tocar na cabeça, nos ombros, nos joelhos e nos dedos dos pés ao cantar. Ensinar a canção a um familiar. 
+Touch your head, shoulders, knees and toes as you sing. Teach the song to someone in your family. / Toque na cabeça, nos ombros, nos joelhos e nos dedos dos pés ao cantar. Ensine a canção a um familiar. 
 
-3) Can you sing [this version](https://www.youtube.com/watch?v=FkL8j0wIRf8) [![hsktg](/images/hsktg.PNG)](https://www.youtube.com/watch?v=FkL8j0wIRf8) where each time we skip more and more of the words? / Cantar [a versão que salta palavras](https://www.youtube.com/watch?v=FkL8j0wIRf8).   
+3) Can you sing [this version](https://www.youtube.com/watch?v=FkL8j0wIRf8) [![hsktg](/images/hsktg.PNG)](https://www.youtube.com/watch?v=FkL8j0wIRf8) where each time we skip more and more of the words? / Cante [a versão que salta palavras](https://www.youtube.com/watch?v=FkL8j0wIRf8).   
 
 
-4) Challenge: can you sing the song while you point to the pictures? / Desafio: cantar ao apontar às imagens.  
+4) Challenge: can you sing the song while you point to the pictures? / Desafio: cante ao apontar às imagens.  
 ![head](/images/head.png)![shou](/images/shou.png)![knee](/images/knee.png)![toes](/images/toes.png)  
 ![eyes](/images/eyes.png)![ears](/images/ears.png)![mout](/images/mout.png)![nose](/images/nose.png)  
 
-5) Optional extra challenge: can you sing the song and point to the correct pictures when the pictures are not in order? / Desafio opcional extra: cantar ao apontar às imagens quando estão fora de ordem.  
+5) Optional extra challenge: can you sing the song and point to the correct pictures when the pictures are not in order? / Desafio opcional extra: cante ao apontar às imagens quando estão fora de ordem.  
 ![nose](/images/nose.png)![toes](/images/toes.png)![ears](/images/ears.png)![shou](/images/shou.png)  
 ![knee](/images/knee.png)![eyes](/images/eyes.png)![head](/images/head.png)![mout](/images/mout.png)  
 
@@ -25,26 +25,26 @@ Touch your head, shoulders, knees and toes as you sing. Teach the song to someon
 
 #### Games
 
-Play some games to learn the colours/Jogar alguns jogos para aprender as cores:  
-1). Play [![cobi](/images/cobi.PNG)](http://www.abcya.com/shapes_colors_bingo.htm) [colour bingo](http://www.abcya.com/shapes_colors_bingo.htm) / Jogar [bingo das cores](http://www.abcya.com/shapes_colors_bingo.htm)  
-Select the game ‘Colors’ / Escolher o jogo ‘Colors’ ![cobi2](/images/cobi2.PNG)
+Play some games to learn the colours/Jogue alguns jogos para aprender as cores:  
+1). Play [![cobi](/images/cobi.PNG)](http://www.abcya.com/shapes_colors_bingo.htm) [colour bingo](http://www.abcya.com/shapes_colors_bingo.htm) / Jogue [bingo das cores](http://www.abcya.com/shapes_colors_bingo.htm)  
+Select the game ‘Colors’ / Escolha o jogo ‘Colors’ ![cobi2](/images/cobi2.PNG)
 
-2). Play [![meco](/images/meco.PNG)](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/) [colour memory](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/) / Jogar [memória usando as cores](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/)  
+2). Play [![meco](/images/meco.PNG)](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/) [colour memory](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/) / Jogue [memória usando as cores](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/)  
 3). [Colour mixer](https://kidsgoflash.com/homepage-featured/color-mixer/) / [Misturador de cores](https://kidsgoflash.com/homepage-featured/color-mixer/) [![comx3](/images/comx3.PNG)](https://kidsgoflash.com/homepage-featured/color-mixer/)  
-First click on ![comx1](/images/comx1.PNG) to experiment then click on ![comx2](/images/comx2.PNG) to play - a voice will ask you to make a particular colour by choosing the colours to mix. / Primeiro clicar em ![comx1](/images/comx1.PNG) para experimentar depois clicar em ![comx2](/images/comx2.PNG) para jogar – uma voz pedirá que faça uma cor por escolher as cores a misturar. 
+First click on ![comx1](/images/comx1.PNG) to experiment then click on ![comx2](/images/comx2.PNG) to play - a voice will ask you to make a particular colour by choosing the colours to mix. / Primeiro clique em ![comx1](/images/comx1.PNG) para experimentar depois clique em ![comx2](/images/comx2.PNG) para jogar – uma voz pedirá que faça uma cor por escolher as cores a misturar. 
 
 4). Other colour games / outros jogos com cores:  
 [Blooper's colours](http://www.sheppardsoftware.com/preschool/ngames/colors.htm) [![ssbl](/images/ssbl.PNG)](http://www.sheppardsoftware.com/preschool/ngames/colors.htm)   
-[![ssco](/images/ssco.PNG)](http://www.sheppardsoftware.com/preschool/colors/colorgame.htm)  [Colour sort](http://www.sheppardsoftware.com/preschool/colors/colorgame.htm) Learn some new words... / Aprender novas palavras...
+[![ssco](/images/ssco.PNG)](http://www.sheppardsoftware.com/preschool/colors/colorgame.htm)  [Colour sort](http://www.sheppardsoftware.com/preschool/colors/colorgame.htm) Learn some new words... / Aprenda novas palavras...
 
 #### Song: *I can sing a rainbow* (*Eu consigo cantar um arco-iris*)  
 1). Listen to ![listen](/images/listen.png) and sing ![sing](/images/sing.png) the song:
 [I can sing a rainbow](https://www.youtube.com/watch?v=rNFW5JK4-rk) [![sar1](/images/sar1.png)](https://www.youtube.com/watch?v=rNFW5JK4-rk)  
-Watch the colours as you sing. / Ver as cores ao cantar.  
+Watch the colours as you sing. / Veja as cores ao cantar.  
 
-2). Put 7 coloured pencils or markers in the order the colours appear in the song: red, yellow, pink, green, purple, orange, blue. Can you sing the song while pointing to each colour as your sing? / Pôr sete lápis de cor ou marcadores na ordem em que aparecem na canção: vermelho, amarelo, cor de rosa, verde, roxo, laranja, azul. Cantar a canção ao apontar para as cores no momento certo.  
+2). Put 7 coloured pencils or markers in the order the colours appear in the song: red, yellow, pink, green, purple, orange, blue. Can you sing the song while pointing to each colour as your sing? / Ponha sete lápis de cor ou marcadores na ordem em que aparecem na canção: vermelho, amarelo, cor de rosa, verde, roxo, laranja, azul. Cante a canção ao apontar para as cores no momento certo.  
 
-3). Challenge: Muddle up the colours. Can you sing the song while pointing to the colours when they are out of order? / Desafio: Desarrumar as cores. Cantar o canção ao apontar para as cores quando estão fora de ordem. 
+3). Challenge: Muddle up the colours. Can you sing the song while pointing to the colours when they are out of order? / Desafio: Desarrume as cores. Cante a canção ao apontar para as cores quando estão fora de ordem. 
 
 ### (Topic 1). Greetings
 
@@ -54,7 +54,7 @@ Watch the colours as you sing. / Ver as cores ao cantar.
 
 2. Watch [Gogo’s Adventures with English 1](https://www.youtube.com/watch?v=9R5-W3bMX4E) [![gae1](/images/gae1.PNG)](https://www.youtube.com/watch?v=9R5-W3bMX4E)  
 
-3. Practice asking and answering these questions with members of your family. / Praticar perguntar e responder a estas perguntas com membros da família.
+3. Practice asking and answering these questions with members of your family. / Pratique perguntar e responder a estas perguntas com membros da família.
 
 ***
 
