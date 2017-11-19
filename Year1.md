@@ -22,7 +22,7 @@ Learn some new words in English. /Aprender novas palavras em inglês.
 
 1. Listen to ![listen](/images/listen.png) and sing ![sing](/images/sing.png) the song: [Hello hello, what’s your name?](https://www.youtube.com/watch?v=Uv1JkBL5728) [![wyn](/images/wyn1.png)](https://www.youtube.com/watch?v=Uv1JkBL5728)
 
-2. Watch [Gogo’s Adventures with English 1](https://www.youtube.com/watch?v=9R5-W3bMX4E) [!gae1]((/images/gae1.PNG)](https://www.youtube.com/watch?v=9R5-W3bMX4E)
+2. Watch [Gogo’s Adventures with English 1](https://www.youtube.com/watch?v=9R5-W3bMX4E) [![gae1](/images/gae1.PNG)](https://www.youtube.com/watch?v=9R5-W3bMX4E)
 
 ***
 
