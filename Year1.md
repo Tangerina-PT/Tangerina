@@ -7,16 +7,16 @@
 Touch your head, shoulders, knees and toes as you sing. / Tocar na cabeça, nos ombros, nos joelhos e nos dedos dos pés ao cantar.  
 
 2) [Sing along](https://www.youtube.com/watch?v=ZanHgPprl-0) [![hskts](/images/hskts.PNG)](https://www.youtube.com/watch?v=ZanHgPprl-0) / [Cantar](https://www.youtube.com/watch?v=ZanHgPprl-0) ![sing](/images/sing.png)  
-Touch your head, shoulders, knees and toes as you sing. Teach the song to someone in your family. / Tocar na cabeça, nos ombros, nos joelhos e nos dedos dos pés ao cantar. Ensinar a canção a alguém da família. 
+Touch your head, shoulders, knees and toes as you sing. Teach the song to someone in your family. / Tocar na cabeça, nos ombros, nos joelhos e nos dedos dos pés ao cantar. Ensinar a canção a um familiar. 
 
-3) Can you sing [this version](https://www.youtube.com/watch?v=FkL8j0wIRf8) [![hsktg](/images/hsktg.PNG)](https://www.youtube.com/watch?v=FkL8j0wIRf8) where each time we skip more and more of the words? / Tentar cantar [a versão que salta palavras](https://www.youtube.com/watch?v=FkL8j0wIRf8).   
+3) Can you sing [this version](https://www.youtube.com/watch?v=FkL8j0wIRf8) [![hsktg](/images/hsktg.PNG)](https://www.youtube.com/watch?v=FkL8j0wIRf8) where each time we skip more and more of the words? / Cantar [a versão que salta palavras](https://www.youtube.com/watch?v=FkL8j0wIRf8).   
 
 
 4) Challenge: can you sing the song while you point to the pictures? / Cantar ao apontar às imagens.  
 ![head](/images/head.png)![shou](/images/shou.png)![knee](/images/knee.png)![toes](/images/toes.png)  
 ![eyes](/images/eyes.png)![ears](/images/ears.png)![mout](/images/mout.png)![nose](/images/nose.png)  
 
-5) Extra challenge: can you sing the song and point to the correct pictures when the pictures are not in order? / Desafio extra:cantar ao apontar às imagens quando estão fora de ordem.  
+5) Extra challenge: can you sing the song and point to the correct pictures when the pictures are not in order? / Desafio extra: cantar ao apontar às imagens quando estão fora de ordem.  
 ![nose](/images/nose.png)![toes](/images/toes.png)![ears](/images/ears.png)![shou](/images/shou.png)  
 ![knee](/images/knee.png)![eyes](/images/eyes.png)![head](/images/head.png)![mout](/images/mout.png)  
 
