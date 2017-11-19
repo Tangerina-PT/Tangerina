@@ -36,16 +36,18 @@ Watch the colours as you sing. / Ver as cores ao cantar.
 2). Can you sing the song while pointing to the colours in order in your notebook? / Cantar o canção ao apontar para as cores em ordem no caderno.  
 3). Challenge: Can you sing the while pointing to the colours when they are out of order? / Desafio: Cantar o canção ao apontar para as cores quando estão fora de ordem. 
 
-### (1). What’s your name? My name is… /I’m… and How are you? I’m fine, thank you
+### (1). 'What’s your name?', 'My name is…' / 'I’m…' and 'How are you?', 'I’m fine, thank you.'
 
 1. Listen to ![listen](/images/listen.png) and sing ![sing](/images/sing.png) the song: [Hello hello, what’s your name?](https://www.youtube.com/watch?v=Uv1JkBL5728) [![wyn](/images/wyn1.png)](https://www.youtube.com/watch?v=Uv1JkBL5728)
 
-2. Watch [Gogo’s Adventures with English 1](https://www.youtube.com/watch?v=9R5-W3bMX4E) [![gae1](/images/gae1.PNG)](https://www.youtube.com/watch?v=9R5-W3bMX4E)
+2. Watch [Gogo’s Adventures with English 1](https://www.youtube.com/watch?v=9R5-W3bMX4E) [![gae1](/images/gae1.PNG)](https://www.youtube.com/watch?v=9R5-W3bMX4E)  
+
+3. Practice asking and answering these questions with members of your family. / Praticar perguntar e responder a estes perguntas com membros da família.
 
 ***
 
 ### Notes/Notas
 * Ensure the sound is switched on. / Certifiquem-se de que o som está ligado.
 * Some resources have been produced for younger children. They have been selected for use due to the slow, clear pronunciation of the target language. Alguns dos recursos são destinados a crianças mais novas. Foram selecionados devido à pronuncia lenta e clara.
-* Some resources, produced prior to the widespread use of tablets and smart phones, are not formatted for or accessible via these devices and must be accessed via an internet browser on a computer. Alguns recursos foram produzidos antes do uso ubíquo de tablets e smart phones, não estando formatados para nem acessíveis através destes aparelhos e funcionam melhor num browser regular instalado num computador.
+* Some resources, produced prior to the widespread use of tablets and smart phones, are not formatted for or accessible via these devices and are best accessed via an internet browser on a computer. Alguns recursos foram produzidos antes do uso ubíquo de tablets e smart phones, não estando formatados para nem acessíveis através destes aparelhos e funcionam melhor num browser regular instalado num computador.
 * Some resources require the browser to launch a recent version of Adobe Flash Player as a plug-in. Vários dos recursos requerem uma versão recente de Adobe Flash Player operacional como plug-in no browser.
