@@ -36,7 +36,9 @@ Watch the colours as you sing. / Ver as cores ao cantar.
 2). Can you sing the song while pointing to the colours in order in your notebook? / Cantar o canção ao apontar para as cores em ordem no caderno.  
 3). Challenge: Can you sing the while pointing to the colours when they are out of order? / Desafio: Cantar o canção ao apontar para as cores quando estão fora de ordem. 
 
-### (1). 'What’s your name?', 'My name is…' / 'I’m…' and 'How are you?', 'I’m fine, thank you.'
+### (1). Greetings
+
+####'What’s your name?', 'My name is…'/'I’m…', 'How are you?', 'I’m fine, thank you.'
 
 1. Listen to ![listen](/images/listen.png) and sing ![sing](/images/sing.png) the song: [Hello hello, what’s your name?](https://www.youtube.com/watch?v=Uv1JkBL5728) [![wyn](/images/wyn1.png)](https://www.youtube.com/watch?v=Uv1JkBL5728)
 
