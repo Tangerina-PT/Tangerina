@@ -12,7 +12,7 @@ Touch your head, shoulders, knees and toes as you sing. Teach the song to someon
 3) Can you sing [this version](https://www.youtube.com/watch?v=FkL8j0wIRf8) [![hsktg](/images/hsktg.PNG)](https://www.youtube.com/watch?v=FkL8j0wIRf8) where each time we skip more and more of the words? / Cantar [a versão que salta palavras](https://www.youtube.com/watch?v=FkL8j0wIRf8).   
 
 
-4) Challenge: can you sing the song while you point to the pictures? / Cantar ao apontar às imagens.  
+4) Challenge: can you sing the song while you point to the pictures? / Desafio: cantar ao apontar às imagens.  
 ![head](/images/head.png)![shou](/images/shou.png)![knee](/images/knee.png)![toes](/images/toes.png)  
 ![eyes](/images/eyes.png)![ears](/images/ears.png)![mout](/images/mout.png)![nose](/images/nose.png)  
 
