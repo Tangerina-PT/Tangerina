@@ -56,7 +56,7 @@ Watch the colours as you sing. / Olha para as cores ao cantar.
 
 2. Watch [Gogo’s Adventures with English 1](https://www.youtube.com/watch?v=9R5-W3bMX4E) [![gae1](/images/gae1.PNG)](https://www.youtube.com/watch?v=9R5-W3bMX4E)  
 
-3. Practice asking and answering these questions with members of your family. / Pratica perguntar e responder às perguntas com membros da família.
+3. Practice asking and answering these questions with members of your family. / Pratica perguntar e responder às perguntas com membros da tua família.
 
 ***
 
