@@ -5,8 +5,7 @@
 #### Song: *Heads, shoulders, knees and toes* (*Cabeças, ombros, joelhos e dedos dos pés*)  
 1) [Learn the words](https://www.youtube.com/watch?v=lMQcwNZVUO8) [![hsktl](/images/hsktl.PNG)](https://www.youtube.com/watch?v=lMQcwNZVUO8) / [Aprender as palavras](https://www.youtube.com/watch?v=lMQcwNZVUO8)  
 2) [Sing along](https://www.youtube.com/watch?v=ZanHgPprl-0) [![hskts](/images/hskts.PNG)](https://www.youtube.com/watch?v=ZanHgPprl-0)/ [Cantar](https://www.youtube.com/watch?v=ZanHgPprl-0) ![sing](/images/sing.png)  
-3) Can you sing [this version](https://www.youtube.com/watch?v=FkL8j0wIRf8) [![hsktg](/images/hsktg.PNG)](https://www.youtube.com/watch?v=FkL8j0wIRf8) where each time we skip more and more of the words? / Tentar cantar [a versão que salta palavras](https://www.youtube.com/watch?v=FkL8j0wIRf8).  
-\ 
+3) Can you sing [this version](https://www.youtube.com/watch?v=FkL8j0wIRf8) [![hsktg](/images/hsktg.PNG)](https://www.youtube.com/watch?v=FkL8j0wIRf8) where each time we skip more and more of the words? / Tentar cantar [a versão que salta palavras](https://www.youtube.com/watch?v=FkL8j0wIRf8).   
 
 
 4) Can you sing the song while you point to the pictures in order in your notebook? / Cantar ao apontar às imagens ordenadas no teu caderno.  
