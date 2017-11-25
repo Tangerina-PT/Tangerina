@@ -12,11 +12,11 @@ Para cada bolo, responde à pergunta ‘quantos anos tem a menina ou o menino?�
 2ª parte: Em cada ecrã, conta os brinquedos em voz alta em inglês, escolha o número certo e ouvirás o número em voz alta para verificar a tua contagem. 
 
 #### 0 to 20 / 0 a 20  
-(1). [Balloon pop](http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount20.htm)  [![bapo1](/images/bapo1.PNG)]( http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount20.htm)  
+(3). [Balloon pop](http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount20.htm)  [![bapo1](/images/bapo1.PNG)]( http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount20.htm)  
 Choose the option ‘Count to 20’ / Escolha a opção ‘Count to 20’ (contar até 20) ![bapo2](/images/bapo2.PNG)  
 Count aloud from 1 to 20 in English – pop the balloon for each number immediately after you have said the number and listen to check. / Conta em voz alta de 1 a 20 em inglês – clica no balão de cada número depois de o dizer em voz alta para verificar.  
 
-(2). [![nobi1](/images/nobi1.PNG)]( http://www.abcya.com/number_bingo.htm) [Play number bingo]( http://www.abcya.com/number_bingo.htm) / [Jogar bingo com os números]( http://www.abcya.com/number_bingo.htm)  
+(4). [![nobi1](/images/nobi1.PNG)]( http://www.abcya.com/number_bingo.htm) [Play number bingo]( http://www.abcya.com/number_bingo.htm) / [Jogar bingo com os números]( http://www.abcya.com/number_bingo.htm)  
 Play 0-10  ![nobi3](/images/nobi3.PNG), then 11-20 ![nobi4](/images/nobi4.PNG).  
 
 ***
