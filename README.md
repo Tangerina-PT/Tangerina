@@ -2,7 +2,7 @@
 
 ***
 
-### (4). Numbers 1 to 20  / Números de 1 a 20
+### (4). Numbers 0 to 20  / Números de 0 a 20
 
 #### 1 to 10 / 1 a 10  
 (1). [![nocc1](/images/nocc1.PNG)]( http://www.abcya.com/kindergarten_counting.htm ) [Count the candles](http://www.abcya.com/kindergarten_counting.htm) / [Conta as velas de aniversário]( http://www.abcya.com/kindergarten_counting.htm)  
