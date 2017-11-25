@@ -17,7 +17,7 @@ Choose the option ‘Count to 20’ / Escolha a opção ‘Count to 20’ (conta
 Count aloud from 1 to 20 in English – pop the balloon for each number immediately after you have said the number and listen to check. / Conta em voz alta de 1 a 20 em inglês – clica no balão de cada número depois de o dizer em voz alta para verificar.  
 
 (4). [![nobi1](/images/nobi1.PNG)]( http://www.abcya.com/number_bingo.htm) [Play number bingo]( http://www.abcya.com/number_bingo.htm) / [Jogar bingo com os números]( http://www.abcya.com/number_bingo.htm)  
-Play 0-10  ![nobi3](/images/nobi3.PNG), then 11-20 ![nobi4](/images/nobi4.PNG).  
+Play 0-10  ![nobi3](/images/nobi3.PNG), then 10-20 ![nobi4](/images/nobi4.PNG).  
 
 ***
 
