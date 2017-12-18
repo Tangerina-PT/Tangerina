@@ -34,9 +34,8 @@
 
 ### 'Have you got _____ ?' 'Yes, I have _____ .' 'No, I haven't.'
 
-1). Play 'Go Fish!'  
-* Choose a topic/Escolha um tópico
-* Print 2 (two) sets of/Imprime 2 cópias dos [flashcards](https://learnenglishkids.britishcouncil.org/en/flashcards) [![fla1](/images/fla1.PNG)](https://learnenglishkids.britishcouncil.org/en/flashcards)
+1). Choose a topic and play 'Go Fish!' / Escolha um tópico e joga 'Go Fish!'
+* Print 2 sets of/Imprime 2 cópias dos [flashcards](https://learnenglishkids.britishcouncil.org/en/flashcards) [![fla1](/images/fla1.PNG)](https://learnenglishkids.britishcouncil.org/en/flashcards)
 * Cut them out to make a pack of cards and / Corta-os para criar um baralho de cartas e 
 * Teach someone at home to play 'Go Fish!' in English. / Ensina alguém em casa a jogar 'Go Fish!' em inglês. Remember/Lembra-te... 
 * 5 (five) cards each / 5 cartas por pessoa
@@ -44,9 +43,7 @@
 * answer/resposta: 'Yes, I have. Here you are.' OR/OU 'No, I haven't. Go Fish!'  
 * objective/objectivo: to make pairs/fazer pars
 
-e.g./por exemplo: ['Food'](https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/flashcards-food-set-1.pdf) [![fla2](/images/fla2.PNG)](https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/flashcards-food-set-1.pdf)  
-
-[![fla3](/images/fla3.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/food-1) If you can't remember how to say the words, click on the picture of the speaker next to each word on the [corresponding word game.](https://learnenglishkids.britishcouncil.org/en/word-games/food-1) / Se não te lembras de como dizer as palavras, clica na imagem do auscultador a beira da cada palavra no [jogo de palavras do mesmo tópico.](https://learnenglishkids.britishcouncil.org/en/word-games/food-1)  
+e.g./por exemplo: ['Food flashcards'](https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/flashcards-food-set-1.pdf) [![fla2](/images/fla2.PNG)](https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/flashcards-food-set-1.pdf). [![fla3](/images/fla3.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/food-1) If you can't remember how to say the words, click on the picture of the speaker next to each word on the [corresponding word game.](https://learnenglishkids.britishcouncil.org/en/word-games/food-1) / Se não te lembras de como dizer as palavras, clica na imagem do auscultador a beira da cada palavra no [jogo de palavras do mesmo tópico.](https://learnenglishkids.britishcouncil.org/en/word-games/food-1)  
 
 2). 'Have you got any brothers and sisters?'  
 
