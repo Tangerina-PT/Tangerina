@@ -32,7 +32,7 @@
 
 ### 'Have you got _____ ?' 'Yes, I have _____ .' 'No, I haven't.'
 
-1. Play 'Go Fish!'  
+1). Play 'Go Fish!'  
 * Choose a topic/Escolha um tópico
 * Print 2 (two) sets of/Imprime 2 cópias dos [flashcards](https://learnenglishkids.britishcouncil.org/en/flashcards) [![fla1](/images/fla1.PNG)](https://learnenglishkids.britishcouncil.org/en/flashcards)
 * Cut them out to make a pack of cards and / Corta-os para criar um baralho de cartas e 
@@ -42,17 +42,17 @@
 * answer/resposta: 'Yes, I have. Here you are.' OR/OU 'No, I haven't. Go Fish!'  
 * objective/objectivo: to make pairs/fazer pars
 
-e.g./por exemplo: ['Food'](https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/flashcards-food-set-1.pdf) [![fla2](/images/fla2.PNG)](https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/flashcards-food-set-1.pdf) 
+e.g./por exemplo: ['Food'](https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/flashcards-food-set-1.pdf) [![fla2](/images/fla2.PNG)](https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/flashcards-food-set-1.pdf)  
 
-[![fla3](/images/fla3.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/food-1) If you can't remember how to say the words, click on the picture of the speaker next to each word on the [corresponding word game.](https://learnenglishkids.britishcouncil.org/en/word-games/food-1) / Se não te lembras de como dizer as palavras, clica na imagem do auscultador a beira da cada palavra no [jogo de palavras do mesmo tópico.](https://learnenglishkids.britishcouncil.org/en/word-games/food-1) 
+[![fla3](/images/fla3.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/food-1) If you can't remember how to say the words, click on the picture of the speaker next to each word on the [corresponding word game.](https://learnenglishkids.britishcouncil.org/en/word-games/food-1) / Se não te lembras de como dizer as palavras, clica na imagem do auscultador a beira da cada palavra no [jogo de palavras do mesmo tópico.](https://learnenglishkids.britishcouncil.org/en/word-games/food-1)  
 
-2. 'Have you got any brothers and sisters?'  
+2). 'Have you got any brothers and sisters?'  
 
 Resposta-exemplo: 'Yes, I have 1 (one) brother and 1 (one) sister.'  
 
 Practice asking this question to members of your family. / Pratica por perguntar a membros da tua família.
 
-3. ['Have you got a pet?'](https://elt.oup.com/student/surprise/level2/songs/song5_1?cc=global&selLanguage=en) [![pet1](/images/pet1.PNG)](https://elt.oup.com/student/surprise/level2/songs/song5_1?cc=global&selLanguage=en)  
+3). ['Have you got a pet?'](https://elt.oup.com/student/surprise/level2/songs/song5_1?cc=global&selLanguage=en) [![pet1](/images/pet1.PNG)](https://elt.oup.com/student/surprise/level2/songs/song5_1?cc=global&selLanguage=en)  
 
 Can you find each of the animals in the song in the picture? / Consegues encontrar os animais da canção na imagem?  
 
