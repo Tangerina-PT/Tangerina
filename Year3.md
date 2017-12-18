@@ -36,10 +36,7 @@
 * Choose a topic/Escolha um tópico
 * Print 2 (two) sets of/Imprime 2 cópias dos [flashcards](https://learnenglishkids.britishcouncil.org/en/flashcards) [![fla1](/images/fla1.PNG)](https://learnenglishkids.britishcouncil.org/en/flashcards)
 * Cut them out to make a pack of cards and / Corta-os para criar um baralho de cartas e 
-* Teach someone at home to play 'Go Fish!' in English. / Ensina alguém em casa a jogar 'Go Fish!' em inglês.  
-
-Remember/Lembra-te...  
-
+* Teach someone at home to play 'Go Fish!' in English. / Ensina alguém em casa a jogar 'Go Fish!' em inglês. Remember/Lembra-te... 
 * 5 (five) cards each / 5 cartas por pessoa
 * ask/pergunta 'Have you got a _____ ?' 
 * answer/resposta: 'Yes, I have. Here you are.' OR/OU 'No, I haven't. Go Fish!'  
