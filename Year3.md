@@ -26,7 +26,7 @@
 2. [Where are you from?_2](https://www.youtube.com/watch?v=XfFCaTgsW-I) [![wyf2](/images/wyf2.PNG)](https://www.youtube.com/watch?v=XfFCaTgsW-I)
 
 3. ['I'm from ... .'](https://www.youtube.com/watch?v=Pf6jDODpZmU) [![wyf3](/images/wyf3.PNG)](https://www.youtube.com/watch?v=Pf6jDODpZmU)  
-(This song is also about taking care of our planet. / Esta canção também é sobre cuidar da nossa planeta.)
+(This song is also about taking care of our planet. / Esta canção também é sobre cuidar do nosso planeta.)
 
 *** 
 
@@ -46,7 +46,7 @@ Remember/Lembra-te...
 * objective/objectivo: to make pairs/fazer pars
 
 e.g./por exemplo: ['Food'](https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/flashcards-food-set-1.pdf) [![fla2](/images/fla2.PNG)](https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/flashcards-food-set-1.pdf)  
-If you can't remember how to say the words, click on the picture of the speaker next to each word on the [corresponding word game.](https://learnenglishkids.britishcouncil.org/en/word-games/food-1) / Se não te lembras como dizer as palavras, clicar na imagem do auscultador a beira da cada palavra no [jogo de palavras do mesmo tópico.] (https://learnenglishkids.britishcouncil.org/en/word-games/food-1) [![fla3](/images/fla3.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/food-1)
+If you can't remember how to say the words, click on the picture of the speaker next to each word on the [corresponding word game.](https://learnenglishkids.britishcouncil.org/en/word-games/food-1) / Se não te lembras de como dizer as palavras, clica na imagem do auscultador a beira da cada palavra no [jogo de palavras do mesmo tópico.] (https://learnenglishkids.britishcouncil.org/en/word-games/food-1) [![fla3](/images/fla3.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/food-1)
 
 2. 'Have you got any brothers and sisters?'  
 
@@ -60,7 +60,7 @@ Can you find each of the animals in the song in the picture? / Consegues encontr
 
 [![pet2](/images/pet2.PNG)](https://www.youtube.com/watch?v=6qh_qTOgkhY) [Here's the same song](https://www.youtube.com/watch?v=6qh_qTOgkhY) with a picture of each animal as you hear its name. / A mesma canção com uma imagem de cada animal a aparecer enquanto o nome do animal é cantado.  
 
-(Note: the picture is incorrect for 'parrot' / Nota: a imagem para 'parrot' é errada - deve ser um papagaio)  
+(Note: the picture is incorrect for 'parrot' / Nota: a imagem para 'parrot' está errada - devia de ser um papagaio)  
 
 ***
 
