@@ -56,9 +56,7 @@ Practice asking this question to members of your family. / Pratica por perguntar
 
 Can you find each of the animals in the song in the picture? / Consegues encontrar os animais da canção na imagem?  
 
-[![pet2](/images/pet2.PNG)](https://www.youtube.com/watch?v=6qh_qTOgkhY) [Here's the same song](https://www.youtube.com/watch?v=6qh_qTOgkhY) with a picture of each animal as you hear its name. / A mesma canção com uma imagem de cada animal a aparecer enquanto o nome do animal é cantado.  
-
-(Note: the picture is incorrect for 'parrot' / Nota: a imagem para 'parrot' está errada - devia de ser um papagaio)  
+[![pet2](/images/pet2.PNG)](https://www.youtube.com/watch?v=6qh_qTOgkhY) [Here's the same song](https://www.youtube.com/watch?v=6qh_qTOgkhY) with a picture of each animal as you hear its name. / A mesma canção com uma imagem de cada animal a aparecer enquanto o nome do animal é cantado.(Note: the picture is incorrect for 'parrot' / Nota: a imagem para 'parrot' está errada - devia de ser um papagaio)  
 
 ***
 
