@@ -18,11 +18,11 @@
 
 ### 'Where are you from?''I'm from _____ .' / Names of countries
 
-1. [Where are you from? 1](https://www.youtube.com/watch?v=l6A2EFkjXq4) [![wyf1](/images/wyf1.png)](https://www.youtube.com/watch?v=l6A2EFkjXq4)
+1. [Where are you from? 1](https://www.youtube.com/watch?v=l6A2EFkjXq4) [![wyf1](/images/wyf1.PNG)](https://www.youtube.com/watch?v=l6A2EFkjXq4)
 
-2. [Where are you from?_2](https://www.youtube.com/watch?v=XfFCaTgsW-I) [![wyf2](/images/wyf2.png)](https://www.youtube.com/watch?v=XfFCaTgsW-I)
+2. [Where are you from?_2](https://www.youtube.com/watch?v=XfFCaTgsW-I) [![wyf2](/images/wyf2.PNG)](https://www.youtube.com/watch?v=XfFCaTgsW-I)
 
-3. ['I'm from ... .'](https://www.youtube.com/watch?v=Pf6jDODpZmU) [![wyf3](/images/wyf3.png)](https://www.youtube.com/watch?v=Pf6jDODpZmU)  
+3. ['I'm from ... .'](https://www.youtube.com/watch?v=Pf6jDODpZmU) [![wyf3](/images/wyf3.PNG)](https://www.youtube.com/watch?v=Pf6jDODpZmU)  
 (This song is also about taking care of our planet. / Esta canção também é sobre cuidar da nossa planeta.)
 
 *** 
@@ -31,7 +31,7 @@
 
 1. 'Have you got any brothers and sisters?'  
 
-Answer-example/Resposta-exemplo: 'Yes, I have 1 (one) brother and 1 (one) sister.'  
+Resposta-exemplo: 'Yes, I have 1 (one) brother and 1 (one) sister.'  
 
 Practice asking this question to members of your family. / Pratica por perguntar a membros da tua família.
 
@@ -39,8 +39,9 @@ Practice asking this question to members of your family. / Pratica por perguntar
 
 Can you find each of the animals in the song in the picture? / Consegues encontrar os animais na canção na imagem?  
 
-Here's the [same song](https://www.youtube.com/watch?v=6qh_qTOgkhY) with a picture of each animal as you hear its name. / A mesma canção com uma imagem de cada animal a aparecer enquanto o nome do animal é cantado. (Note: the picture is incorrect for 'parrot' / Nota: a imagem para 'parrot' é errada - deve ser um papagaio)  
-[![pet2](/images/pet2.PNG)](https://www.youtube.com/watch?v=6qh_qTOgkhY)
+[![pet2](/images/pet2.PNG)](https://www.youtube.com/watch?v=6qh_qTOgkhY) [Here's the same song](https://www.youtube.com/watch?v=6qh_qTOgkhY) with a picture of each animal as you hear its name. / A mesma canção com uma imagem de cada animal a aparecer enquanto o nome do animal é cantado.  
+
+(Note: the picture is incorrect for 'parrot' / Nota: a imagem para 'parrot' é errada - deve ser um papagaio)  
 
 ***
 
