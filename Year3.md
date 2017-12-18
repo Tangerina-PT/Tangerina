@@ -9,7 +9,8 @@
 
 ***
 
-### 'How old are you?' 'I'm _____ .' 'I'm ____ years old.'
+### 'How old are you?' 'I'm _____ .' 'I'm ____ years old.' and
+### Numbers 1-10
 
 1. Listen to ![listen](/images/listen.png) and sing ![sing](/images/sing.png) the song: [How old are you?](https://www.youtube.com/watch?v=x2cI4ZgsYU4) [![hoay](/images/hoay.PNG)](https://www.youtube.com/watch?v=x2cI4ZgsYU4)
 
@@ -17,7 +18,7 @@
 
 *** 
 
-### 'Where are you from?' 'I'm from _____ .'
+### 'Where are you from?' 'I'm from _____ .' and
 ### Names of countries
 
 1. [Where are you from? 1](https://www.youtube.com/watch?v=l6A2EFkjXq4) [![wyf1](/images/wyf1.PNG)](https://www.youtube.com/watch?v=l6A2EFkjXq4)
@@ -31,8 +32,14 @@
 
 ### 'Have you got _____ ?' 'Yes, I have _____ .' 'No, I haven't.'
 
-1. Play Go Fish! - Choose a topic, print two sets of [flashcards](https://learnenglishkids.britishcouncil.org/en/flashcards) [![fla1](/images/fla1.PNG)](https://learnenglishkids.britishcouncil.org/en/flashcards) for that topic, cut them out to make a pack of cards and teach someone at home to play 'Go Fish!' in English. / Escolha um tópico para o qual queres praticar as palavras, imprime 2 cópias dos flashcards para aquele tópico, corta-os para criar um baralho de cartas e ensina alguém em casa a jogar 'Go Fish!' em inglês.  
+1. Play Go Fish!  
+* Choose a topic/Escolha um tópico
+* Print 2 (two) sets of/Imprime 2 cópias dos [flashcards](https://learnenglishkids.britishcouncil.org/en/flashcards) [![fla1](/images/fla1.PNG)](https://learnenglishkids.britishcouncil.org/en/flashcards)
+* Cut them out to make a pack of cards and / corta-os para criar um baralho de cartas e 
+* teach someone at home to play 'Go Fish!' in English. / ensina alguém em casa a jogar 'Go Fish!' em inglês.  
+
 Remember/Lembra-te...  
+
 * 5 (five) cards each / 5 cartas por pessoa
 * ask/pergunta 'Have you got a _____ ?' 
 * answer/resposta: 'Yes, I have. Here you are.' OR/OU 'No, I haven't. Go Fish!'  
