@@ -38,7 +38,7 @@ Remember/Lembra-te...
 * answer/resposta: 'Yes, I have. Here you are.' OR/OU 'No, I haven't. Go Fish!'  
 * objective/objectivo: to make pairs/fazer pars
 
-e.g./por exemplo: ['Food'](https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/flashcards-food-set-1.pdf) [![fla2](/images/fla1.PNG)](https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/flashcards-food-set-1.pdf)  
+e.g./por exemplo: ['Food'](https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/flashcards-food-set-1.pdf) [![fla2](/images/fla2.PNG)](https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/flashcards-food-set-1.pdf)  
 If you can't remember how to say the words, click on the picture of the speaker next to each word on the [corresponding word game.](https://learnenglishkids.britishcouncil.org/en/word-games/food-1) / Se não te lembras como dizer as palavras, clicar na imagem do auscultador a beira da cada palavra no [jogo de palavras do mesmo tópico.] (https://learnenglishkids.britishcouncil.org/en/word-games/food-1) [![fla3](/images/fla3.PNG)](https://learnenglishkids.britishcouncil.org/en/word-games/food-1)
 
 2. 'Have you got any brothers and sisters?'  
