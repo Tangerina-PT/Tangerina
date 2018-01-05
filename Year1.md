@@ -23,28 +23,7 @@ Touch your head, shoulders, knees and toes as you sing. Teach the song to someon
 ***
 ### Topic 2 - Colours
 
-#### Games
-
-Play some games to learn the colours/Joga alguns jogos para aprender as cores:  
-1). Play [![cobi](/images/cobi.PNG)](http://www.abcya.com/shapes_colors_bingo.htm) [colour bingo](http://www.abcya.com/shapes_colors_bingo.htm) / Joga [bingo das cores](http://www.abcya.com/shapes_colors_bingo.htm)  
-Select the game ‘Colors’ / Escolhe o jogo ‘Colors’ ![cobi2](/images/cobi2.PNG)
-
-2). Play [![meco](/images/meco.PNG)](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/) [colour memory](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/) / Joga [memória usando as cores](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/)  
-3). [Colour mixer](https://kidsgoflash.com/homepage-featured/color-mixer/) / [Misturador de cores](https://kidsgoflash.com/homepage-featured/color-mixer/) [![comx3](/images/comx3.PNG)](https://kidsgoflash.com/homepage-featured/color-mixer/)  
-First click on ![comx1](/images/comx1.PNG) to experiment then click on ![comx2](/images/comx2.PNG) to play - a voice will ask you to make a particular colour by choosing the colours to mix. / Primeiro clica em ![comx1](/images/comx1.PNG) para experimentar depois clica em ![comx2](/images/comx2.PNG) para jogar – uma voz vai pedir que faças uma cor escolhendo cores para misturar. 
-
-4). Other colour games / outros jogos com cores:  
-[Blooper's colours](http://www.sheppardsoftware.com/preschool/ngames/colors.htm) [![ssbl](/images/ssbl.PNG)](http://www.sheppardsoftware.com/preschool/ngames/colors.htm)   
-[![ssco](/images/ssco.PNG)](http://www.sheppardsoftware.com/preschool/colors/colorgame.htm)  [Colour sort](http://www.sheppardsoftware.com/preschool/colors/colorgame.htm) Learn some new words... / Aprende novas palavras...
-
-#### Song: *I can sing a rainbow* (*Eu consigo cantar um arco-iris*)  
-1). Listen to ![listen](/images/listen.png) and sing ![sing](/images/sing.png) the song:
-[I can sing a rainbow](https://www.youtube.com/watch?v=rNFW5JK4-rk) [![sar1](/images/sar1.png)](https://www.youtube.com/watch?v=rNFW5JK4-rk)  
-Watch the colours as you sing. / Olha para as cores ao cantar.  
-
-2). Put 7 coloured pencils or markers in the order the colours appear in the song: red, yellow, pink, green, purple, orange, blue. Can you sing the song and point to each colour as you say its name? / Põe sete lápis de cor ou marcadores na ordem em que aparecem na canção: vermelho, amarelo, cor de rosa, verde, roxo, laranja, azul. Consegues cantar a canção ao apontar para as cores na altura certa?  
-
-3). Challenge: Muddle up the colours. Can you sing the song while pointing to the colours when they are out of order? / Desafio: Desarruma as cores. Consegues cantar a canção ao apontar para as cores quando estão fora de ordem. 
+[Year 1 Colours](https://github.com/english-homework/Tangerina/blob/master/Year1/Colours)
 
 ***
 
