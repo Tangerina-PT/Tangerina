@@ -23,7 +23,7 @@ Touch your head, shoulders, knees and toes as you sing. Teach the song to someon
 ***
 ### Topic 2 - Colours
 
-[Year 1 Colours](https://github.com/english-homework/Tangerina/blob/master/Year1/Colours)
+[Year 1 Colours](https://english-homework.github.io/Tangerina/Year1/Colours)
 
 ***
 
