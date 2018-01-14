@@ -8,5 +8,6 @@
 [How are you? / Como estás?](https://www.youtube.com/watch?v=LxhOv3KnfA8) [![hays](/images/hays.PNG)](https://www.youtube.com/watch?v=LxhOv3KnfA8)  
 
 
-[Link to official website - Stories](
-Link to official website - Songs
+[Link to official website](http://www.kidsboxapps.es/kb1.php) [![kb1ban](/images/kb1ban)]
+Click on [kb1stic](/images/kb1stic.PNG) for stories.  
+Click on [kb1soic](/images/kb1soic.PNG) for songs. 
