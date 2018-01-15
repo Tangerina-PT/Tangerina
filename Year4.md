@@ -29,15 +29,17 @@ Review the language we have been using in conversation classes / Revê as estrut
 
 *** 
 
-### 'Where are you from?' 'I'm from _____ .' and
-### Names of countries
+### 'Where are you from?' 'I'm from _____ .' 'I'm _____ .' and
+### Names of countries/Nationalities
 
 1. [Where are you from? 1](https://www.youtube.com/watch?v=l6A2EFkjXq4) [![wyf1](/images/wyf1.PNG)](https://www.youtube.com/watch?v=l6A2EFkjXq4)
 
 2. [Where are you from? 2](https://www.youtube.com/watch?v=XfFCaTgsW-I) [![wyf2](/images/wyf2.PNG)](https://www.youtube.com/watch?v=XfFCaTgsW-I)
 
 3. ['I'm from ... .'](https://www.youtube.com/watch?v=Pf6jDODpZmU) [![wyf3](/images/wyf3.PNG)](https://www.youtube.com/watch?v=Pf6jDODpZmU)  
-(This song is also about taking care of our planet. / Esta canção também é sobre cuidar do nosso planeta.)
+(This song is also about taking care of our planet. / Esta canção também é sobre cuidar do nosso planeta.)  
+
+4. [I'm from ... . and 'I'm ... .'](https://www.youtube.com/watch?v=NJVV1LDt2hE) [![cnat](/images/cnat.PNG)](https://www.youtube.com/watch?v=NJVV1LDt2hE)  
 
 *** 
 
