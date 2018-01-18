@@ -3,13 +3,13 @@
 ![cnstr](/images/cnstr.png) Website 'em construção'
 
 ***
-### Vocab
+### Vocabulary / Vocabulário
 Do you need to work on your vocabulary? / Precisas de trabalhar o teu vocabulário?  
-#### [The Alphabet](https://tangerina-pt.github.io/English/Alphabet_B)
-#### [Colours / Cores](https://tangerina-pt.github.io/English/Colours_B)
-#### [Numbers 0 to 20 / Números de 0 a 20](https://tangerina-pt.github.io/English/Numbers_1_to_20)
-#### [Classroom Objects / Objetos da sala da aula](https://tangerina-pt.github.io/English/Classroom_Objects_B)
-#### [Calendar-days, months, the date / Calendário - dias, meses, a data](https://tangerina-pt.github.io/English/Calendar_D)
+##### [The Alphabet](https://tangerina-pt.github.io/English/Alphabet_B)
+##### [Colours / Cores](https://tangerina-pt.github.io/English/Colours_B)
+##### [Cardinal numbers](https://tangerina-pt.github.io/English/Cardinal_Numbers_D)
+##### [Classroom Objects / Objetos da sala da aula](https://tangerina-pt.github.io/English/Classroom_Objects_B)
+##### [Calendar-days, months, the date / Calendário - dias, meses, a data](https://tangerina-pt.github.io/English/Calendar_D)
 ***
 Review the language we have been using in conversation classes / Revê as estruturas que temos usado nas aulas de conversação  
 
