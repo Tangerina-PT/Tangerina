@@ -1,6 +1,6 @@
 ## Year 4 English Conversation - 2017/2018
 
-![cnstr](/images/cnstr.PNG) Website 'em construção'   
+![cnstr](/images/cnstr.png) Website 'em construção'   
 ***
 Do you need to work on your vocabulary? / Precisas de trabalhar o teu vocabulário?  
 
