@@ -12,5 +12,5 @@ Embora seja apresentada uma amostra de um produto final potencial para cada sess
 
 Esta actividade extra-curricular de artes manuais/ofícios é oferecida no modo de aprendizagem integrada de conteúdos e línguas (CLIL), ou seja, a instrução é inteiramente em inglês, com um objectivo secundário de expor às crianças a e, a médio prazo, promover a aprendizagem e a compreensão em inglês. Actividades de artes manuais são particularmente adequadas ao ensino CLIL. A natureza física e prática das atividades significa que podem ser dadas demonstrações claras para acompanhar as instruções e explicações em inglês, facilitando a compreensão do aluno e minimizando a carga cognitiva de processar a ‘outra’ língua.   
 
-[English](https://tangerina-pt.github.io/Tangerina/Arts_and_Crafts_en) [![flag_uk](https://1blockatatime.github.io/English/images2/flag_uk.png){:height="30px"}](https://tangerina-pt.github.io/Tangerina/Arts_and_Crafts_en)    
 * Artes manuais/'ofícios' é animado por: Sing, Play, Learn English - c21educator@gmail.com  
+[English](https://tangerina-pt.github.io/Tangerina/Arts_and_Crafts_en) [![flag_uk](https://1blockatatime.github.io/English/images2/flag_uk.png){:height="30px"}](https://tangerina-pt.github.io/Tangerina/Arts_and_Crafts_en)    
